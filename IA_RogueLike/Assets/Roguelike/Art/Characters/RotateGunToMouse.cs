@@ -10,9 +10,11 @@ public class RotateGunToMouse : MonoBehaviour
     public AudioClip AudioClip;
     public AudioSource AudioSource;
 
+
     private void Start()
     {
         mainCamera = Camera.main;
+
     }
 
     private void Update()
