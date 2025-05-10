@@ -7,6 +7,8 @@ public class RotateGunToMouse : MonoBehaviour
     public GameObject bulletPrefab;
     public float bulletSpeed = 90f;
     public Transform firePoint; // punto de salida de la bala
+    public AudioClip AudioClip;
+    public AudioSource AudioSource;
 
     private void Start()
     {
@@ -24,6 +26,7 @@ public class RotateGunToMouse : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
             Shoot(direction);
+                AudioSource.PlayOneShot(AudioClip);
         }
     }
 
