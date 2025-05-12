@@ -1,79 +1,79 @@
 fileFormatVersion: 2
-guid: 4f2d1b391675f7543a977f48b5897039
+guid: e1fe49eb2b1932e42ae95639346ca867
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 986190409523702872
-    second: Basic Bunny character v1_0
+      213: 2980482983406336555
+    second: Spearer_0
   - first:
-      213: 9091762623513091666
-    second: Basic Bunny character v1_1
+      213: -6118947957252586048
+    second: Spearer_1
   - first:
-      213: -7001342911173730781
-    second: Basic Bunny character v1_2
+      213: 5219310374691887094
+    second: Spearer_2
   - first:
-      213: -7459005790959886909
-    second: Basic Bunny character v1_3
+      213: 2989530766441353970
+    second: Spearer_3
   - first:
-      213: 8065039297555779501
-    second: Basic Bunny character v1_4
+      213: -8833643596271123739
+    second: Spearer_4
   - first:
-      213: 8977230184561075590
-    second: Basic Bunny character v1_5
+      213: 7829852302102635927
+    second: Spearer_5
   - first:
-      213: 502070019768739368
-    second: Basic Bunny character v1_6
+      213: -9147815501913366618
+    second: Spearer_6
   - first:
-      213: 6056930313471511896
-    second: Basic Bunny character v1_7
+      213: 7307020239524649075
+    second: Spearer_7
   - first:
-      213: 2308358313388326279
-    second: Basic Bunny character v1_8
+      213: -3291692765699589823
+    second: Spearer_8
   - first:
-      213: -2101110202481185231
-    second: Basic Bunny character v1_9
+      213: -5671912719360959340
+    second: Spearer_9
   - first:
-      213: 4094553177655786925
-    second: Basic Bunny character v1_10
+      213: 396240292289173608
+    second: Spearer_10
   - first:
-      213: 4446503835849753062
-    second: Basic Bunny character v1_11
+      213: -1097126068285457226
+    second: Spearer_11
   - first:
-      213: -8308607368915923540
-    second: Basic Bunny character v1_12
+      213: -8296017164012891248
+    second: Spearer_12
   - first:
-      213: 4674458462154892575
-    second: Basic Bunny character v1_13
+      213: 1716023513734724338
+    second: Spearer_13
   - first:
-      213: -5696540153206410061
-    second: Basic Bunny character v1_14
+      213: -281284280723885365
+    second: Spearer_14
   - first:
-      213: 6484518737461417175
-    second: Basic Bunny character v1_15
+      213: -6894616072473005815
+    second: Spearer_15
   - first:
-      213: -6985649605647519018
-    second: Basic Bunny character v1_16
+      213: -4627666676995972557
+    second: Spearer_16
   - first:
-      213: 3259198030588304814
-    second: Basic Bunny character v1_17
+      213: 5883876801345962291
+    second: Spearer_17
   - first:
-      213: 3763470501795364665
-    second: Basic Bunny character v1_18
+      213: 7673908158754944433
+    second: Spearer_18
   - first:
-      213: -5831634042431127391
-    second: Basic Bunny character v1_19
+      213: 1806980631083051531
+    second: Spearer_19
   - first:
-      213: -3843478366415736848
-    second: Basic Bunny character v1_20
+      213: 2220597662065720077
+    second: Spearer_20
   - first:
-      213: 5466253719729525891
-    second: Basic Bunny character v1_21
+      213: -5654170343059310867
+    second: Spearer_21
   - first:
-      213: -6479804401266864029
-    second: Basic Bunny character v1_22
+      213: -20604639118642499
+    second: Spearer_22
   - first:
-      213: 6092550780082772292
-    second: Basic Bunny character v1_23
+      213: 4646218833262567530
+    second: Spearer_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -208,7 +208,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic Bunny character v1_0
+      name: Spearer_0
       rect:
         serializedVersion: 2
         x: 0
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85cae80d3f6afad00800000000000000
-      internalID: 986190409523702872
+      spriteID: b2af70d6b7dcc5920800000000000000
+      internalID: 2980482983406336555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_1
+      name: Spearer_1
       rect:
         serializedVersion: 2
         x: 24
@@ -245,14 +245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25edba49fed6c2e70800000000000000
-      internalID: 9091762623513091666
+      spriteID: 0c58bd0a041251ba0800000000000000
+      internalID: -6118947957252586048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_2
+      name: Spearer_2
       rect:
         serializedVersion: 2
         x: 48
@@ -267,14 +267,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32e5acc87bb36de90800000000000000
-      internalID: -7001342911173730781
+      spriteID: 6f75508f127be6840800000000000000
+      internalID: 5219310374691887094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_3
+      name: Spearer_3
       rect:
         serializedVersion: 2
         x: 72
@@ -289,14 +289,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3cd114ca0c94c7890800000000000000
-      internalID: -7459005790959886909
+      spriteID: 2f296d29462fc7920800000000000000
+      internalID: 2989530766441353970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_4
+      name: Spearer_4
       rect:
         serializedVersion: 2
         x: 96
@@ -311,14 +311,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dafc06eb286ccef60800000000000000
-      internalID: 8065039297555779501
+      spriteID: 5e20bdba3f7986580800000000000000
+      internalID: -8833643596271123739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_5
+      name: Spearer_5
       rect:
         serializedVersion: 2
         x: 120
@@ -333,14 +333,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6856da91a47859c70800000000000000
-      internalID: 8977230184561075590
+      spriteID: 7952a963f2939ac60800000000000000
+      internalID: 7829852302102635927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_6
+      name: Spearer_6
       rect:
         serializedVersion: 2
         x: 144
@@ -355,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82660bcd506b7f600800000000000000
-      internalID: 502070019768739368
+      spriteID: 6af54a9a44e6c0180800000000000000
+      internalID: -9147815501913366618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_7
+      name: Spearer_7
       rect:
         serializedVersion: 2
         x: 168
@@ -377,14 +377,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85dc3c3770a8e0450800000000000000
-      internalID: 6056930313471511896
+      spriteID: 378d47f8130c76560800000000000000
+      internalID: 7307020239524649075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_8
+      name: Spearer_8
       rect:
         serializedVersion: 2
         x: 0
@@ -399,14 +399,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78db4d3e7afe80020800000000000000
-      internalID: 2308358313388326279
+      spriteID: 149b0c6aede8152d0800000000000000
+      internalID: -3291692765699589823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_9
+      name: Spearer_9
       rect:
         serializedVersion: 2
         x: 24
@@ -421,14 +421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13ee82b276b57d2e0800000000000000
-      internalID: -2101110202481185231
+      spriteID: 49c587dce615941b0800000000000000
+      internalID: -5671912719360959340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_10
+      name: Spearer_10
       rect:
         serializedVersion: 2
         x: 48
@@ -443,14 +443,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dadbe14db66c2d830800000000000000
-      internalID: 4094553177655786925
+      spriteID: 868d79b427abf7500800000000000000
+      internalID: 396240292289173608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_11
+      name: Spearer_11
       rect:
         serializedVersion: 2
         x: 72
@@ -465,14 +465,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e18c3c1ea725bd30800000000000000
-      internalID: 4446503835849753062
+      spriteID: 6bc360a57a936c0f0800000000000000
+      internalID: -1097126068285457226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_12
+      name: Spearer_13
       rect:
         serializedVersion: 2
         x: 0
@@ -487,14 +487,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cadc29d6e95e1bc80800000000000000
-      internalID: -8308607368915923540
+      spriteID: 2fa306a3b4a80d710800000000000000
+      internalID: 1716023513734724338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_13
+      name: Spearer_14
       rect:
         serializedVersion: 2
         x: 24
@@ -509,14 +509,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f15af0a74330fd040800000000000000
-      internalID: 4674458462154892575
+      spriteID: bc23d8edf6da81cf0800000000000000
+      internalID: -281284280723885365
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_14
+      name: Spearer_15
       rect:
         serializedVersion: 2
         x: 48
@@ -531,14 +531,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b4f16789e2d1f0b0800000000000000
-      internalID: -5696540153206410061
+      spriteID: 9013c8916376150a0800000000000000
+      internalID: -6894616072473005815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_15
+      name: Spearer_16
       rect:
         serializedVersion: 2
         x: 72
@@ -553,14 +553,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d490cd6f63adf950800000000000000
-      internalID: 6484518737461417175
+      spriteID: 3322ebafca937cfb0800000000000000
+      internalID: -4627666676995972557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_16
+      name: Spearer_17
       rect:
         serializedVersion: 2
         x: 96
@@ -575,14 +575,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d2380af1bcfd0f90800000000000000
-      internalID: -6985649605647519018
+      spriteID: 3314366d6cab7a150800000000000000
+      internalID: 5883876801345962291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_17
+      name: Spearer_18
       rect:
         serializedVersion: 2
         x: 120
@@ -597,14 +597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ead5ed1475ffa3d20800000000000000
-      internalID: 3259198030588304814
+      spriteID: 1b57f81ffc23f7a60800000000000000
+      internalID: 7673908158754944433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_18
+      name: Spearer_19
       rect:
         serializedVersion: 2
         x: 144
@@ -619,14 +619,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 93f7c2e4b788a3430800000000000000
-      internalID: 3763470501795364665
+      spriteID: b0a67b76f4fa31910800000000000000
+      internalID: 1806980631083051531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_19
+      name: Spearer_20
       rect:
         serializedVersion: 2
         x: 168
@@ -641,14 +641,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a041d85cbfd11fa0800000000000000
-      internalID: -5831634042431127391
+      spriteID: d0b7d74fec521de10800000000000000
+      internalID: 2220597662065720077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_20
+      name: Spearer_21
       rect:
         serializedVersion: 2
         x: 192
@@ -663,14 +663,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ff24e31ac839aac0800000000000000
-      internalID: -3843478366415736848
+      spriteID: de6b662b70a5881b0800000000000000
+      internalID: -5654170343059310867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basic Bunny character v1_21
+      name: Spearer_22
       rect:
         serializedVersion: 2
         x: 0
@@ -685,74 +685,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 384d2a0fbc80cdb40800000000000000
-      internalID: 5466253719729525891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Bunny character v1_22
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 360d9708a3c1316a0800000000000000
-      internalID: -6479804401266864029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Bunny character v1_23
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 0
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 449dcde97a61d8450800000000000000
-      internalID: 6092550780082772292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Bunny character v1_24
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 8
-        width: 5
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bdcbc2718ec9c9644b2fbc4388a71dbd
-      internalID: -1832054725
+      spriteID: db2bb9c903cc6bff0800000000000000
+      internalID: -20604639118642499
       vertices: []
       indices: 
       edges: []
@@ -761,7 +695,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 68aeab8826f988c488298c2faa77703d
+    spriteID: 80d2b5b6a3eee9b4ea344b8f27848db2
     internalID: 0
     vertices: []
     indices: 
@@ -771,31 +705,39 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Basic Bunny character v1_0: 986190409523702872
-      Basic Bunny character v1_1: 9091762623513091666
-      Basic Bunny character v1_10: 4094553177655786925
-      Basic Bunny character v1_11: 4446503835849753062
-      Basic Bunny character v1_12: -8308607368915923540
-      Basic Bunny character v1_13: 4674458462154892575
-      Basic Bunny character v1_14: -5696540153206410061
-      Basic Bunny character v1_15: 6484518737461417175
-      Basic Bunny character v1_16: -6985649605647519018
-      Basic Bunny character v1_17: 3259198030588304814
-      Basic Bunny character v1_18: 3763470501795364665
-      Basic Bunny character v1_19: -5831634042431127391
-      Basic Bunny character v1_2: -7001342911173730781
-      Basic Bunny character v1_20: -3843478366415736848
-      Basic Bunny character v1_21: 5466253719729525891
-      Basic Bunny character v1_22: -6479804401266864029
-      Basic Bunny character v1_23: 6092550780082772292
-      Basic Bunny character v1_24: -1832054725
-      Basic Bunny character v1_3: -7459005790959886909
-      Basic Bunny character v1_4: 8065039297555779501
-      Basic Bunny character v1_5: 8977230184561075590
-      Basic Bunny character v1_6: 502070019768739368
-      Basic Bunny character v1_7: 6056930313471511896
-      Basic Bunny character v1_8: 2308358313388326279
-      Basic Bunny character v1_9: -2101110202481185231
+      Spearer_0: 2980482983406336555
+      Spearer_1: -6118947957252586048
+      Spearer_10: 396240292289173608
+      Spearer_11: -1097126068285457226
+      Spearer_12: -8296017164012891248
+      Spearer_13: 1716023513734724338
+      Spearer_14: -281284280723885365
+      Spearer_15: -6894616072473005815
+      Spearer_16: -4627666676995972557
+      Spearer_17: 5883876801345962291
+      Spearer_18: 7673908158754944433
+      Spearer_19: 1806980631083051531
+      Spearer_2: 5219310374691887094
+      Spearer_20: 2220597662065720077
+      Spearer_21: -5654170343059310867
+      Spearer_22: -20604639118642499
+      Spearer_23: 4646218833262567530
+      Spearer_24: -2096061792
+      Spearer_25: 828182217
+      Spearer_26: 405435613
+      Spearer_27: 311943261
+      Spearer_28: -1163502393
+      Spearer_29: -209881497
+      Spearer_3: 2989530766441353970
+      Spearer_30: -2020839073
+      Spearer_31: -2004111126
+      Spearer_32: 1327794177
+      Spearer_4: -8833643596271123739
+      Spearer_5: 7829852302102635927
+      Spearer_6: -9147815501913366618
+      Spearer_7: 7307020239524649075
+      Spearer_8: -3291692765699589823
+      Spearer_9: -5671912719360959340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
