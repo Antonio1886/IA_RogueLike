@@ -5,18 +5,16 @@ using UnityEngine;
 public class TopDownMovement : MonoBehaviour
 {
     [SerializeField] private float MoveSpeed;
-    [SerializeField] private Vector2 Direcction;
+    private Vector2 Direcction;
 
     private Rigidbody2D rb;
     private Animator anim;
-    private SpriteRenderer spriteRenderer;
     private Camera mainCamera;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        spriteRenderer = GetComponent<SpriteRenderer>();
         mainCamera = Camera.main;
     }
 
@@ -26,11 +24,7 @@ public class TopDownMovement : MonoBehaviour
 
         bool isMoving = Direcction.sqrMagnitude > 0;
         anim.SetBool("isMoving", isMoving);
-
-        // Obtener posición del mouse en el mundo
         Vector3 mouseWorldPos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-
-        // Girar sprite hacia la izquierda o derecha según la posición del mouse
         if (mouseWorldPos.x < transform.position.x)
         {
             transform.rotation = Quaternion.Euler(0, 180, 0);
