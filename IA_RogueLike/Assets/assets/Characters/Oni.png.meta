@@ -208,7 +208,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Berserker_0
+      name: Oni_0
       rect:
         serializedVersion: 2
         x: 0
@@ -216,21 +216,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 31030165717a8c870800000000000000
-      internalID: 8703389998563471379
+      spriteID: 01be750b087c23c428e5afd2b55a80df
+      internalID: -95553231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_1
+      name: Oni_1
       rect:
         serializedVersion: 2
         x: 24
@@ -238,21 +238,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dadaf7e8fbefa2770800000000000000
-      internalID: 8586955738218212781
+      spriteID: da8b7933a9fe616418c1f19fb0c1e154
+      internalID: 1270890549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_2
+      name: Oni_2
       rect:
         serializedVersion: 2
         x: 48
@@ -260,21 +260,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8d25c0de30247f0e0800000000000000
-      internalID: -2236246105336818984
+      spriteID: 2534b2485a285654abf7ceeca5bf792f
+      internalID: 21072639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_3
+      name: Oni_3
       rect:
         serializedVersion: 2
         x: 72
@@ -282,21 +282,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d3cb147f065041970800000000000000
-      internalID: 8724604292146773053
+      spriteID: 8808b25a68b3ad14881438908e55b964
+      internalID: 1880555886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_4
+      name: Oni_4
       rect:
         serializedVersion: 2
         x: 96
@@ -304,21 +304,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ce8d2a093dcacd7c0800000000000000
-      internalID: -4045168340620879636
+      spriteID: 59a6c3fe93f51574f85cc7f9fa35ffba
+      internalID: 1948993012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_5
+      name: Oni_5
       rect:
         serializedVersion: 2
         x: 120
@@ -326,21 +326,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bb156f76d7bcd6340800000000000000
-      internalID: 4858763312478179771
+      spriteID: 21b4489e7da0eed4ab1b62e94eff903a
+      internalID: 1410795171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_6
+      name: Oni_6
       rect:
         serializedVersion: 2
         x: 144
@@ -348,21 +348,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9e34e68d41be3b560800000000000000
-      internalID: 7328459493424907241
+      spriteID: 1d2587cc73a54034889a0d7443b3a657
+      internalID: 1461246102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_7
+      name: Oni_7
       rect:
         serializedVersion: 2
         x: 168
@@ -370,21 +370,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: acdf2f5c8999ab9a0800000000000000
-      internalID: -6216487454196433462
+      spriteID: 3ea645b371b9f704ab99f5ee00000988
+      internalID: -1178052510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_8
+      name: Oni_8
       rect:
         serializedVersion: 2
         x: 0
@@ -392,21 +392,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a00e7106a51db3d60800000000000000
-      internalID: 7871114959849512970
+      spriteID: 4185d252eb10aa74aac88be48833ea9c
+      internalID: -1372525712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_9
+      name: Oni_9
       rect:
         serializedVersion: 2
         x: 24
@@ -414,21 +414,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 99f8cf126fe7dac50800000000000000
-      internalID: 6678133418057568153
+      spriteID: f5c465ba65e765b4e92925e8bed30741
+      internalID: 1683762360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_10
+      name: Oni_10
       rect:
         serializedVersion: 2
         x: 48
@@ -436,21 +436,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 87402b96721698910800000000000000
-      internalID: 1840108744662451320
+      spriteID: aa969e105bd4906478b55b6ceb7aff2b
+      internalID: -775699326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_11
+      name: Oni_11
       rect:
         serializedVersion: 2
         x: 72
@@ -458,21 +458,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f8e9a37f1a8d8c010800000000000000
-      internalID: 1209454690098126479
+      spriteID: 6cd1c45939842584aabff7fe1d215d69
+      internalID: -1197342234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_12
+      name: Oni_12
       rect:
         serializedVersion: 2
         x: 0
@@ -480,21 +480,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9afbd689046b66c0800000000000000
-      internalID: -4149112639611733346
+      spriteID: 14070e1689fe8284c9b44c88a3823b1a
+      internalID: -936590253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_13
+      name: Oni_13
       rect:
         serializedVersion: 2
         x: 24
@@ -502,21 +502,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 25601a0beea845bb0800000000000000
-      internalID: -4948177332803140014
+      spriteID: 3eff7b26c5b1ee64eb39f7a0cd07878c
+      internalID: -1372088463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_14
+      name: Oni_14
       rect:
         serializedVersion: 2
         x: 48
@@ -524,21 +524,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bb20453a9d7ad89e0800000000000000
-      internalID: -1617452137966206277
+      spriteID: 2a33c371ef2a59548848551539613de8
+      internalID: -1652028961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_15
+      name: Oni_15
       rect:
         serializedVersion: 2
         x: 72
@@ -546,21 +546,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f974848adbb03d4b0800000000000000
-      internalID: -5416973017596541025
+      spriteID: 41df59226d44cb8478e3285dd41594d1
+      internalID: -938722940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_16
+      name: Oni_16
       rect:
         serializedVersion: 2
         x: 96
@@ -568,21 +568,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ef44a498e15a0d780800000000000000
-      internalID: -8660240532862515970
+      spriteID: 84eaf31abccf7af448da5984d8245e94
+      internalID: 853178666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_17
+      name: Oni_17
       rect:
         serializedVersion: 2
         x: 120
@@ -590,21 +590,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 61b6a6982510996d0800000000000000
-      internalID: -2983351824151844074
+      spriteID: a0bfa9168246ae64a9039374c0f8fe2c
+      internalID: -1110534956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_18
+      name: Oni_18
       rect:
         serializedVersion: 2
         x: 144
@@ -612,21 +612,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd44fe7e13af7f3a0800000000000000
-      internalID: -6631556834028206885
+      spriteID: 28d79f7168cd29d42aa7aac8b112e977
+      internalID: 1072533357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_19
+      name: Oni_19
       rect:
         serializedVersion: 2
         x: 168
@@ -634,21 +634,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4038916cac1efd680800000000000000
-      internalID: -8728009291797527804
+      spriteID: b3fa9f3b4dddd64409c47a98f8d306cb
+      internalID: 1632528828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_20
+      name: Oni_20
       rect:
         serializedVersion: 2
         x: 192
@@ -656,21 +656,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4720b547be8b63270800000000000000
-      internalID: 8229968690475106932
+      spriteID: 0d90e216b345c984e9b3f5169f2f59dd
+      internalID: -486558844
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Berserker_21
+      name: Oni_21
       rect:
         serializedVersion: 2
         x: 0
@@ -678,15 +678,37 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: be9b1f14f70e792f0800000000000000
-      internalID: -966056757875852821
+      spriteID: 94c06aa1c6bd8354195354f9c0e14d2d
+      internalID: -1281294200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oni_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64277295f213c914fb4f4fb0f4ea4022
+      internalID: -2123360859
       vertices: []
       indices: 
       edges: []
@@ -705,35 +727,35 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Berserker_0: 8703389998563471379
-      Berserker_1: 8586955738218212781
-      Berserker_10: 1840108744662451320
-      Berserker_11: 1209454690098126479
-      Berserker_12: -4149112639611733346
-      Berserker_13: -4948177332803140014
-      Berserker_14: -1617452137966206277
-      Berserker_15: -5416973017596541025
-      Berserker_16: -8660240532862515970
-      Berserker_17: -2983351824151844074
-      Berserker_18: -6631556834028206885
-      Berserker_19: -8728009291797527804
-      Berserker_2: -2236246105336818984
-      Berserker_20: 8229968690475106932
-      Berserker_21: -966056757875852821
-      Berserker_22: -6124709487565080455
-      Berserker_23: -8658654439633794145
-      Berserker_24: 1070544043
-      Berserker_25: -1969166235
-      Berserker_26: 1211335016
-      Berserker_27: -1996896564
-      Berserker_28: -2069982466
-      Berserker_3: 8724604292146773053
-      Berserker_4: -4045168340620879636
-      Berserker_5: 4858763312478179771
-      Berserker_6: 7328459493424907241
-      Berserker_7: -6216487454196433462
-      Berserker_8: 7871114959849512970
-      Berserker_9: 6678133418057568153
+      Oni_0: -95553231
+      Oni_1: 1270890549
+      Oni_10: -775699326
+      Oni_11: -1197342234
+      Oni_12: -936590253
+      Oni_13: -1372088463
+      Oni_14: -1652028961
+      Oni_15: -938722940
+      Oni_16: 853178666
+      Oni_17: -1110534956
+      Oni_18: 1072533357
+      Oni_19: 1632528828
+      Oni_2: 21072639
+      Oni_20: -486558844
+      Oni_21: -1281294200
+      Oni_22: -2123360859
+      Oni_23: -305640213
+      Oni_24: -722161498
+      Oni_25: -1124259733
+      Oni_26: -1930379940
+      Oni_27: 1937580401
+      Oni_28: 1799296415
+      Oni_3: 1880555886
+      Oni_4: 1948993012
+      Oni_5: 1410795171
+      Oni_6: 1461246102
+      Oni_7: -1178052510
+      Oni_8: -1372525712
+      Oni_9: 1683762360
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

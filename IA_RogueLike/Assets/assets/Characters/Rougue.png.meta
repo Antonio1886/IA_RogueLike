@@ -208,7 +208,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Assasin_0
+      name: Rougue_0
       rect:
         serializedVersion: 2
         x: 0
@@ -216,21 +216,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ce1f303a07a4d4a10800000000000000
-      internalID: 1895252865824584172
+      spriteID: 23426e6d69d7f2044ab62f530f9ab082
+      internalID: -425038888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_1
+      name: Rougue_1
       rect:
         serializedVersion: 2
         x: 24
@@ -238,21 +238,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7512afb0ae5e5c780800000000000000
-      internalID: -8663265514791231145
+      spriteID: 7b92ad549494ac540a11e9bece1bbb70
+      internalID: 1482980638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_2
+      name: Rougue_2
       rect:
         serializedVersion: 2
         x: 48
@@ -260,21 +260,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2e99961c5235d920800000000000000
-      internalID: 3014370896691961386
+      spriteID: 7d2a22a759289bb4eb263712f297b3ab
+      internalID: -1848972969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_3
+      name: Rougue_3
       rect:
         serializedVersion: 2
         x: 72
@@ -282,21 +282,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b5382fd36d4d63220800000000000000
-      internalID: 2465391862659318619
+      spriteID: e62213e8885d29e489be63908991c5df
+      internalID: 1338734366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_4
+      name: Rougue_4
       rect:
         serializedVersion: 2
         x: 96
@@ -304,21 +304,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fea41b9d24993eb30800000000000000
-      internalID: 4315461380350233327
+      spriteID: 0bcb90d228754d64aa38d01e52e78d87
+      internalID: -305914171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_5
+      name: Rougue_5
       rect:
         serializedVersion: 2
         x: 120
@@ -326,21 +326,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3dc2de31b6b87c730800000000000000
-      internalID: 4019334484463529171
+      spriteID: 915144a0fbf4b244f8d9c9e0f19b8915
+      internalID: -2002258938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_6
+      name: Rougue_6
       rect:
         serializedVersion: 2
         x: 144
@@ -348,21 +348,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d5eaef51315a997a0800000000000000
-      internalID: -6369878696546881955
+      spriteID: e687ac76c7c420c47bb951ec49591338
+      internalID: 185308997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_7
+      name: Rougue_7
       rect:
         serializedVersion: 2
         x: 168
@@ -370,21 +370,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9480d0634bb9bb90800000000000000
-      internalID: -7225538229077769058
+      spriteID: a5d09a9fb41d50c40b6751cbecc25777
+      internalID: 1398309375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_9
+      name: Rougue_9
       rect:
         serializedVersion: 2
         x: 0
@@ -392,21 +392,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0e7d76d95069a53f0800000000000000
-      internalID: -911251023729272864
+      spriteID: 22efed52eccb88448a14eabd094f81a8
+      internalID: -415129268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_10
+      name: Rougue_10
       rect:
         serializedVersion: 2
         x: 24
@@ -414,21 +414,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 646beadb1d9be4960800000000000000
-      internalID: 7588206732647511622
+      spriteID: 2325a16c6e8d6304b9c98245a243422c
+      internalID: 1431646225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_11
+      name: Rougue_11
       rect:
         serializedVersion: 2
         x: 48
@@ -436,21 +436,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec5ccb26860370c40800000000000000
-      internalID: 5478400696610768334
+      spriteID: e2a2e1cf005116b47b55110c0ac912ce
+      internalID: 2040562165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_12
+      name: Rougue_12
       rect:
         serializedVersion: 2
         x: 72
@@ -458,21 +458,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 74effbb18c0fc9b40800000000000000
-      internalID: 5448494391461150279
+      spriteID: 73166623830aee14dbd827c966d71de8
+      internalID: -1232213372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_13
+      name: Rougue_13
       rect:
         serializedVersion: 2
         x: 0
@@ -480,21 +480,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 87e3d36a0e2b0f840800000000000000
-      internalID: 5255897443072818808
+      spriteID: b8f742d9157685d41b2c5b574d609825
+      internalID: 1320616159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_14
+      name: Rougue_14
       rect:
         serializedVersion: 2
         x: 24
@@ -502,21 +502,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e659bdb0f8a475880800000000000000
-      internalID: -8622340983337806482
+      spriteID: 7ce55db3b8235014ab31036914ef356b
+      internalID: 1578542371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_15
+      name: Rougue_15
       rect:
         serializedVersion: 2
         x: 48
@@ -524,21 +524,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e6be8fdfada10d00800000000000000
-      internalID: 937221168351327970
+      spriteID: 94abdf1f7065b8445a6f17ba94424798
+      internalID: 200774826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_16
+      name: Rougue_16
       rect:
         serializedVersion: 2
         x: 72
@@ -546,21 +546,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f066f7e20f1e189b0800000000000000
-      internalID: -5079530483008707057
+      spriteID: 9e5842a6e33d7314eba783e330daeb03
+      internalID: -1982054242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_17
+      name: Rougue_17
       rect:
         serializedVersion: 2
         x: 96
@@ -568,21 +568,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 18a1425eaaf05b5c0800000000000000
-      internalID: -4200433850789913983
+      spriteID: 863db42bc5de8fa419321a45a6feebed
+      internalID: -363409029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_18
+      name: Rougue_18
       rect:
         serializedVersion: 2
         x: 120
@@ -590,21 +590,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5aea16230373f2470800000000000000
-      internalID: 8371970912448261797
+      spriteID: 345abd75dbab8384eafc1d804da1e63b
+      internalID: -461261352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_19
+      name: Rougue_19
       rect:
         serializedVersion: 2
         x: 144
@@ -612,21 +612,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 32f16844faff11200800000000000000
-      internalID: 149181390913937187
+      spriteID: 2ee7ba44a67e7124890fb474b1a72dc8
+      internalID: 214870195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_20
+      name: Rougue_20
       rect:
         serializedVersion: 2
         x: 168
@@ -634,21 +634,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 19a6513a45e756020800000000000000
-      internalID: 2334410883839912593
+      spriteID: 2e30c86117e89c9428cd1f658dbd293c
+      internalID: -568394383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_21
+      name: Rougue_21
       rect:
         serializedVersion: 2
         x: 192
@@ -656,21 +656,21 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1367bcb125d6ece10800000000000000
-      internalID: 2219831865761297969
+      spriteID: 02e79048f96ed7244baaff5b4859c8b1
+      internalID: 132070239
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assasin_22
+      name: Rougue_22
       rect:
         serializedVersion: 2
         x: 0
@@ -678,15 +678,37 @@ TextureImporter:
         width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9b9a455fb6314e70800000000000000
-      internalID: 9097612917662718878
+      spriteID: 94d50f9b99d155f4f8717b2aa3b3c583
+      internalID: 2074284589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rougue_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47681a57cb7e19242a51136c8d70a82a
+      internalID: 698818250
       vertices: []
       indices: 
       edges: []
@@ -705,39 +727,39 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Assasin_0: 1895252865824584172
-      Assasin_1: -8663265514791231145
-      Assasin_10: 7588206732647511622
-      Assasin_11: 5478400696610768334
-      Assasin_12: 5448494391461150279
-      Assasin_13: 5255897443072818808
-      Assasin_14: -8622340983337806482
-      Assasin_15: 937221168351327970
-      Assasin_16: -5079530483008707057
-      Assasin_17: -4200433850789913983
-      Assasin_18: 8371970912448261797
-      Assasin_19: 149181390913937187
-      Assasin_2: 3014370896691961386
-      Assasin_20: 2334410883839912593
-      Assasin_21: 2219831865761297969
-      Assasin_22: 9097612917662718878
-      Assasin_23: 990412758913373466
-      Assasin_24: 49976064
-      Assasin_25: 326539137
-      Assasin_26: -567169799
-      Assasin_27: 1446208540
-      Assasin_28: -1697512029
-      Assasin_29: -1757193619
-      Assasin_3: 2465391862659318619
-      Assasin_30: -1633334231
-      Assasin_31: 71320206
-      Assasin_32: 2137653465
-      Assasin_4: 4315461380350233327
-      Assasin_5: 4019334484463529171
-      Assasin_6: -6369878696546881955
-      Assasin_7: -7225538229077769058
-      Assasin_8: -2899429382259026815
-      Assasin_9: -911251023729272864
+      Rougue_0: -425038888
+      Rougue_1: 1482980638
+      Rougue_10: 1431646225
+      Rougue_11: 2040562165
+      Rougue_12: -1232213372
+      Rougue_13: 1320616159
+      Rougue_14: 1578542371
+      Rougue_15: 200774826
+      Rougue_16: -1982054242
+      Rougue_17: -363409029
+      Rougue_18: -461261352
+      Rougue_19: 214870195
+      Rougue_2: -1848972969
+      Rougue_20: -568394383
+      Rougue_21: 132070239
+      Rougue_22: 2074284589
+      Rougue_23: 913702887
+      Rougue_24: 1010301376
+      Rougue_25: 441653289
+      Rougue_26: -1676696694
+      Rougue_27: 698818250
+      Rougue_28: -2028710895
+      Rougue_29: 157235761
+      Rougue_3: 1338734366
+      Rougue_30: -23441804
+      Rougue_31: -567511451
+      Rougue_32: 1248666681
+      Rougue_4: -305914171
+      Rougue_5: -2002258938
+      Rougue_6: 185308997
+      Rougue_7: 1398309375
+      Rougue_8: -302672506
+      Rougue_9: -415129268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
