@@ -2,28 +2,15 @@ using UnityEngine;
 
 public class Health : MonoBehaviour
 {
-    public int maxHealth = 100;
-    private int currentHealth;
+    [SerializeField] private float vida;
 
-    void Start()
+    public void TomarDaño(float daño)
     {
-        currentHealth = maxHealth;
-    }
+        vida -= daño;
 
-    public void TakeDamage(int damage)
-    {
-        currentHealth -= damage;
-        Debug.Log($"{gameObject.name} recibió {damage} de daño. Vida restante: {currentHealth}");
-
-        if (currentHealth <= 0)
+        if (vida <= 0)
         {
-            Die();
+            Destroy(gameObject);
         }
-    }
-
-    private void Die()
-    {
-        Debug.Log($"{gameObject.name} ha muerto.");
-        Destroy(gameObject);
     }
 }

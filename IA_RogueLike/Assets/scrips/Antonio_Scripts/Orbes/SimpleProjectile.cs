@@ -28,7 +28,7 @@ public class SimpleProjectile : MonoBehaviour
         Health targetHealth = other.GetComponent<Health>();
         if (targetHealth != null)
         {
-            targetHealth.TakeDamage(damage);
+            //targetHealth.TakeDamage(damage);
             Destroy(gameObject);
         }
     }

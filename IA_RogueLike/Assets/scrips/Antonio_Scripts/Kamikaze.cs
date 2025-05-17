@@ -45,7 +45,7 @@ public class Kamikaze : MonoBehaviour
             Health h = hit.GetComponent<Health>();
             if (h != null)
             {
-                h.TakeDamage(explosionDamage);
+                //h.TakeDamage(explosionDamage);
             }
         }
 
