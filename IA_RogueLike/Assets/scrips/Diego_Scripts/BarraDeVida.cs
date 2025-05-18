@@ -5,13 +5,20 @@ public class BarraDeVida : MonoBehaviour
 {
     private Slider slider;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    void Awake()
     {
         slider = GetComponent<Slider>();
     }
 
+    /*void Start()
+    {
+        slider = GetComponent<Slider>();
+    }*/
+
     public void CambiarVidaMaxima(float vidaMaxima)
     {
+        if (slider == null) slider = GetComponent<Slider>();
         slider.maxValue = vidaMaxima;
     }
 
