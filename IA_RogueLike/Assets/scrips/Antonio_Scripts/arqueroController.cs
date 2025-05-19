@@ -16,39 +16,47 @@ public class arqueroController : MonoBehaviour
 
     private float waitStartTime;
 
-    void Update()
+void Update()
+{
+    if (target == null) return;
+
+    float distance = Vector3.Distance(transform.position, target.position);
+
+    // Verificar si el jugador está dentro del rango de detección
+    if (distance > detectionRange)
     {
-        if (target == null) return;
-
-        float distance = Vector3.Distance(transform.position, target.position);
-
-        switch (currentState)
-        {
-            case State.Chasing:
-                if (distance > stopDistance)
-                {
-                    MoveTowards(target.position);
-                }
-                else
-                {
-                    currentState = State.Waiting;
-                    waitStartTime = Time.time;
-                }
-                break;
-
-            case State.Waiting:
-                if (Time.time - waitStartTime >= pauseBeforeShoot)
-                {
-                    currentState = State.Shooting;
-                }
-                break;
-
-            case State.Shooting:
-                ShootAtTarget();
-                currentState = State.Chasing;
-                break;
-        }
+        // Si está fuera del rango, el arquero no hace nada
+        return;
     }
+
+    // Lógica existente del estado del arquero
+    switch (currentState)
+    {
+        case State.Chasing:
+            if (distance > stopDistance)
+            {
+                MoveTowards(target.position);
+            }
+            else
+            {
+                currentState = State.Waiting;
+                waitStartTime = Time.time;
+            }
+            break;
+
+        case State.Waiting:
+            if (Time.time - waitStartTime >= pauseBeforeShoot)
+            {
+                currentState = State.Shooting;
+            }
+            break;
+
+        case State.Shooting:
+            ShootAtTarget();
+            currentState = State.Chasing;
+            break;
+    }
+}
 
     private void MoveTowards(Vector3 destination)
     {
