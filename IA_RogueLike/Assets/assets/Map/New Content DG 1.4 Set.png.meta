@@ -1,0 +1,6906 @@
+fileFormatVersion: 2
+guid: 1b9bc7b6158dca94491a3283d756803c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -952917156612528608
+    second: New Content DG 1.4 Set_0
+  - first:
+      213: -4077490714422815263
+    second: New Content DG 1.4 Set_1
+  - first:
+      213: -3965130523923572139
+    second: New Content DG 1.4 Set_2
+  - first:
+      213: 2128306398209970164
+    second: New Content DG 1.4 Set_3
+  - first:
+      213: 1884253913873524151
+    second: New Content DG 1.4 Set_4
+  - first:
+      213: -3511689597851567389
+    second: New Content DG 1.4 Set_5
+  - first:
+      213: 8590681793197313329
+    second: New Content DG 1.4 Set_6
+  - first:
+      213: -1683387614416757909
+    second: New Content DG 1.4 Set_7
+  - first:
+      213: 1111933631171310883
+    second: New Content DG 1.4 Set_8
+  - first:
+      213: -858159348353256949
+    second: New Content DG 1.4 Set_9
+  - first:
+      213: 3329267620255820507
+    second: New Content DG 1.4 Set_10
+  - first:
+      213: -3336523507418050585
+    second: New Content DG 1.4 Set_11
+  - first:
+      213: 5363721324291628235
+    second: New Content DG 1.4 Set_12
+  - first:
+      213: 1973617298073388663
+    second: New Content DG 1.4 Set_13
+  - first:
+      213: -5142953063608934741
+    second: New Content DG 1.4 Set_14
+  - first:
+      213: 5112737367882423414
+    second: New Content DG 1.4 Set_15
+  - first:
+      213: 5228352282273971569
+    second: New Content DG 1.4 Set_16
+  - first:
+      213: 6134254900379394232
+    second: New Content DG 1.4 Set_17
+  - first:
+      213: -7106985563408611459
+    second: New Content DG 1.4 Set_18
+  - first:
+      213: 1233265418641669855
+    second: New Content DG 1.4 Set_19
+  - first:
+      213: 2291539808753928035
+    second: New Content DG 1.4 Set_20
+  - first:
+      213: -572964731688453564
+    second: New Content DG 1.4 Set_21
+  - first:
+      213: -995898702741364800
+    second: New Content DG 1.4 Set_22
+  - first:
+      213: -8284230560001555054
+    second: New Content DG 1.4 Set_23
+  - first:
+      213: -888660183056427866
+    second: New Content DG 1.4 Set_24
+  - first:
+      213: 4948730181551419590
+    second: New Content DG 1.4 Set_25
+  - first:
+      213: -7550361849588982581
+    second: New Content DG 1.4 Set_26
+  - first:
+      213: 9120628544918629564
+    second: New Content DG 1.4 Set_27
+  - first:
+      213: -1637679288723383103
+    second: New Content DG 1.4 Set_28
+  - first:
+      213: -6372970628356464002
+    second: New Content DG 1.4 Set_29
+  - first:
+      213: 3085779270710900036
+    second: New Content DG 1.4 Set_30
+  - first:
+      213: -2565702920397210967
+    second: New Content DG 1.4 Set_31
+  - first:
+      213: 2837447914923070408
+    second: New Content DG 1.4 Set_32
+  - first:
+      213: 5838882085385153171
+    second: New Content DG 1.4 Set_33
+  - first:
+      213: 1843813853093276666
+    second: New Content DG 1.4 Set_34
+  - first:
+      213: 6954478741311683891
+    second: New Content DG 1.4 Set_35
+  - first:
+      213: -4656253127208042525
+    second: New Content DG 1.4 Set_36
+  - first:
+      213: 959553910105685408
+    second: New Content DG 1.4 Set_37
+  - first:
+      213: 2548484278099118314
+    second: New Content DG 1.4 Set_38
+  - first:
+      213: -7152961782332909179
+    second: New Content DG 1.4 Set_39
+  - first:
+      213: 9006348832203194688
+    second: New Content DG 1.4 Set_40
+  - first:
+      213: 3564858342840897280
+    second: New Content DG 1.4 Set_41
+  - first:
+      213: 4617800638165135455
+    second: New Content DG 1.4 Set_42
+  - first:
+      213: -7847182085488866680
+    second: New Content DG 1.4 Set_43
+  - first:
+      213: -1527075812066760872
+    second: New Content DG 1.4 Set_44
+  - first:
+      213: 8455443944675186988
+    second: New Content DG 1.4 Set_45
+  - first:
+      213: 3030493637391062057
+    second: New Content DG 1.4 Set_46
+  - first:
+      213: -2715924156635785346
+    second: New Content DG 1.4 Set_47
+  - first:
+      213: 159687717676255633
+    second: New Content DG 1.4 Set_48
+  - first:
+      213: -5487752387965212922
+    second: New Content DG 1.4 Set_49
+  - first:
+      213: 3960387212776973031
+    second: New Content DG 1.4 Set_50
+  - first:
+      213: -9029966666587975572
+    second: New Content DG 1.4 Set_51
+  - first:
+      213: 4010162475091009638
+    second: New Content DG 1.4 Set_52
+  - first:
+      213: 928680257861395406
+    second: New Content DG 1.4 Set_53
+  - first:
+      213: -4485170339068983634
+    second: New Content DG 1.4 Set_54
+  - first:
+      213: -4221356558925407702
+    second: New Content DG 1.4 Set_55
+  - first:
+      213: -2846124395233579119
+    second: New Content DG 1.4 Set_56
+  - first:
+      213: 2339707273710887658
+    second: New Content DG 1.4 Set_57
+  - first:
+      213: 4073611250119577354
+    second: New Content DG 1.4 Set_58
+  - first:
+      213: 5800832136345157408
+    second: New Content DG 1.4 Set_59
+  - first:
+      213: -2748306973922114301
+    second: New Content DG 1.4 Set_60
+  - first:
+      213: 6013735872888477750
+    second: New Content DG 1.4 Set_61
+  - first:
+      213: -7132426213858889843
+    second: New Content DG 1.4 Set_62
+  - first:
+      213: 4661512998554326484
+    second: New Content DG 1.4 Set_63
+  - first:
+      213: -1062797972263618279
+    second: New Content DG 1.4 Set_64
+  - first:
+      213: 639358503590705138
+    second: New Content DG 1.4 Set_65
+  - first:
+      213: -8003517708855886006
+    second: New Content DG 1.4 Set_66
+  - first:
+      213: -6361393091614037205
+    second: New Content DG 1.4 Set_67
+  - first:
+      213: -5699201867494061103
+    second: New Content DG 1.4 Set_68
+  - first:
+      213: 5706671883188972487
+    second: New Content DG 1.4 Set_69
+  - first:
+      213: 6088517605103687
+    second: New Content DG 1.4 Set_70
+  - first:
+      213: -1066153588587804890
+    second: New Content DG 1.4 Set_71
+  - first:
+      213: -8041855653073693217
+    second: New Content DG 1.4 Set_72
+  - first:
+      213: 5390601668869170128
+    second: New Content DG 1.4 Set_73
+  - first:
+      213: -3913447948827961524
+    second: New Content DG 1.4 Set_74
+  - first:
+      213: -953610969407976810
+    second: New Content DG 1.4 Set_75
+  - first:
+      213: 8821173208497557525
+    second: New Content DG 1.4 Set_76
+  - first:
+      213: -5885280020148706215
+    second: New Content DG 1.4 Set_77
+  - first:
+      213: 7364935365814109897
+    second: New Content DG 1.4 Set_78
+  - first:
+      213: -788184474689184714
+    second: New Content DG 1.4 Set_79
+  - first:
+      213: -6525541699592940574
+    second: New Content DG 1.4 Set_80
+  - first:
+      213: 4776184246927268450
+    second: New Content DG 1.4 Set_81
+  - first:
+      213: 6890173249696857643
+    second: New Content DG 1.4 Set_82
+  - first:
+      213: -7831214260562277130
+    second: New Content DG 1.4 Set_83
+  - first:
+      213: -1736324518576274411
+    second: New Content DG 1.4 Set_84
+  - first:
+      213: 7465663718971971353
+    second: New Content DG 1.4 Set_85
+  - first:
+      213: -3268479060290446815
+    second: New Content DG 1.4 Set_86
+  - first:
+      213: 316467274481892967
+    second: New Content DG 1.4 Set_87
+  - first:
+      213: -5553256434040163987
+    second: New Content DG 1.4 Set_88
+  - first:
+      213: -3109551726093286947
+    second: New Content DG 1.4 Set_89
+  - first:
+      213: 1647095557172421782
+    second: New Content DG 1.4 Set_90
+  - first:
+      213: 1669522774020887131
+    second: New Content DG 1.4 Set_91
+  - first:
+      213: -3395243014546811773
+    second: New Content DG 1.4 Set_92
+  - first:
+      213: -7658404690487471451
+    second: New Content DG 1.4 Set_93
+  - first:
+      213: -2155606325065115431
+    second: New Content DG 1.4 Set_94
+  - first:
+      213: -4299826483807909978
+    second: New Content DG 1.4 Set_95
+  - first:
+      213: 8183683614644773579
+    second: New Content DG 1.4 Set_96
+  - first:
+      213: 2764148850685797419
+    second: New Content DG 1.4 Set_97
+  - first:
+      213: -3823933693474378445
+    second: New Content DG 1.4 Set_98
+  - first:
+      213: 1835677116107010294
+    second: New Content DG 1.4 Set_99
+  - first:
+      213: 7464326470175791217
+    second: New Content DG 1.4 Set_100
+  - first:
+      213: -2146148527378030482
+    second: New Content DG 1.4 Set_101
+  - first:
+      213: -3906874331442272438
+    second: New Content DG 1.4 Set_102
+  - first:
+      213: 4891345164741595876
+    second: New Content DG 1.4 Set_103
+  - first:
+      213: -1274666614997235113
+    second: New Content DG 1.4 Set_104
+  - first:
+      213: 7009975325886171631
+    second: New Content DG 1.4 Set_105
+  - first:
+      213: 8479222224649792963
+    second: New Content DG 1.4 Set_106
+  - first:
+      213: -2452503991008526449
+    second: New Content DG 1.4 Set_107
+  - first:
+      213: -4271937690803989603
+    second: New Content DG 1.4 Set_108
+  - first:
+      213: -3429702806733780134
+    second: New Content DG 1.4 Set_109
+  - first:
+      213: -6565223963618702999
+    second: New Content DG 1.4 Set_110
+  - first:
+      213: -4103752088830691942
+    second: New Content DG 1.4 Set_111
+  - first:
+      213: 8826741573198948887
+    second: New Content DG 1.4 Set_112
+  - first:
+      213: -3443171628909988964
+    second: New Content DG 1.4 Set_113
+  - first:
+      213: 4364324672796329706
+    second: New Content DG 1.4 Set_114
+  - first:
+      213: 2907241058342398810
+    second: New Content DG 1.4 Set_115
+  - first:
+      213: -4537476436017042750
+    second: New Content DG 1.4 Set_116
+  - first:
+      213: -8199147204058918756
+    second: New Content DG 1.4 Set_117
+  - first:
+      213: -5973374600287131772
+    second: New Content DG 1.4 Set_118
+  - first:
+      213: -9009613877230278060
+    second: New Content DG 1.4 Set_119
+  - first:
+      213: -1837824203731563687
+    second: New Content DG 1.4 Set_120
+  - first:
+      213: 6353471725644924632
+    second: New Content DG 1.4 Set_121
+  - first:
+      213: 5006640945471994588
+    second: New Content DG 1.4 Set_122
+  - first:
+      213: -7971406709861615689
+    second: New Content DG 1.4 Set_123
+  - first:
+      213: 4171448443179423425
+    second: New Content DG 1.4 Set_124
+  - first:
+      213: 6360297646102614747
+    second: New Content DG 1.4 Set_125
+  - first:
+      213: 839286537270955865
+    second: New Content DG 1.4 Set_126
+  - first:
+      213: 7200960307726585230
+    second: New Content DG 1.4 Set_127
+  - first:
+      213: 2224601911134479028
+    second: New Content DG 1.4 Set_128
+  - first:
+      213: -2875359881805669403
+    second: New Content DG 1.4 Set_129
+  - first:
+      213: 888332298393294745
+    second: New Content DG 1.4 Set_130
+  - first:
+      213: 5130103421591067789
+    second: New Content DG 1.4 Set_131
+  - first:
+      213: 450636690559002320
+    second: New Content DG 1.4 Set_132
+  - first:
+      213: 5996821277679220935
+    second: New Content DG 1.4 Set_133
+  - first:
+      213: -1262076576770690172
+    second: New Content DG 1.4 Set_134
+  - first:
+      213: -8683924780854735992
+    second: New Content DG 1.4 Set_135
+  - first:
+      213: -8755413431285480609
+    second: New Content DG 1.4 Set_136
+  - first:
+      213: -2518282760753835921
+    second: New Content DG 1.4 Set_137
+  - first:
+      213: -4004686365239113620
+    second: New Content DG 1.4 Set_138
+  - first:
+      213: -916193981171283042
+    second: New Content DG 1.4 Set_139
+  - first:
+      213: -4640196955495941466
+    second: New Content DG 1.4 Set_140
+  - first:
+      213: -4869920805828809386
+    second: New Content DG 1.4 Set_141
+  - first:
+      213: -6778870442187215524
+    second: New Content DG 1.4 Set_142
+  - first:
+      213: -73954787616459686
+    second: New Content DG 1.4 Set_143
+  - first:
+      213: 8215760790197346311
+    second: New Content DG 1.4 Set_144
+  - first:
+      213: -2804702150586793384
+    second: New Content DG 1.4 Set_145
+  - first:
+      213: 5765513258202388719
+    second: New Content DG 1.4 Set_146
+  - first:
+      213: 4939924482076657535
+    second: New Content DG 1.4 Set_147
+  - first:
+      213: -1558717855522666903
+    second: New Content DG 1.4 Set_148
+  - first:
+      213: 1433316308550289688
+    second: New Content DG 1.4 Set_149
+  - first:
+      213: -3007429382267208887
+    second: New Content DG 1.4 Set_150
+  - first:
+      213: 2726551254212526662
+    second: New Content DG 1.4 Set_151
+  - first:
+      213: -5922943362094219068
+    second: New Content DG 1.4 Set_152
+  - first:
+      213: 6658844786978134303
+    second: New Content DG 1.4 Set_153
+  - first:
+      213: -160599930328758705
+    second: New Content DG 1.4 Set_154
+  - first:
+      213: -6395620025155124140
+    second: New Content DG 1.4 Set_155
+  - first:
+      213: -4128348762357145195
+    second: New Content DG 1.4 Set_156
+  - first:
+      213: 270482521162808057
+    second: New Content DG 1.4 Set_157
+  - first:
+      213: -494735480762715168
+    second: New Content DG 1.4 Set_158
+  - first:
+      213: 3892951703172400076
+    second: New Content DG 1.4 Set_159
+  - first:
+      213: 7265067503571809821
+    second: New Content DG 1.4 Set_160
+  - first:
+      213: 6324144287504809792
+    second: New Content DG 1.4 Set_161
+  - first:
+      213: 3160202881479488074
+    second: New Content DG 1.4 Set_162
+  - first:
+      213: -5051391395004190281
+    second: New Content DG 1.4 Set_163
+  - first:
+      213: -304194539090859352
+    second: New Content DG 1.4 Set_164
+  - first:
+      213: 1630217634564558808
+    second: New Content DG 1.4 Set_165
+  - first:
+      213: 5920351154316731521
+    second: New Content DG 1.4 Set_166
+  - first:
+      213: -9220163488162190517
+    second: New Content DG 1.4 Set_167
+  - first:
+      213: 3642484109252749892
+    second: New Content DG 1.4 Set_168
+  - first:
+      213: -8157439682946942702
+    second: New Content DG 1.4 Set_169
+  - first:
+      213: 2420777762959551340
+    second: New Content DG 1.4 Set_170
+  - first:
+      213: 2260307936081379119
+    second: New Content DG 1.4 Set_171
+  - first:
+      213: -5996643265299860305
+    second: New Content DG 1.4 Set_172
+  - first:
+      213: -2960543463171427379
+    second: New Content DG 1.4 Set_173
+  - first:
+      213: -7351724665169322753
+    second: New Content DG 1.4 Set_174
+  - first:
+      213: -3878452341511086836
+    second: New Content DG 1.4 Set_175
+  - first:
+      213: -3588728084925338092
+    second: New Content DG 1.4 Set_176
+  - first:
+      213: 1472065177239612365
+    second: New Content DG 1.4 Set_177
+  - first:
+      213: -3828559039210363549
+    second: New Content DG 1.4 Set_178
+  - first:
+      213: 6941121017325528205
+    second: New Content DG 1.4 Set_179
+  - first:
+      213: -8080468938940054686
+    second: New Content DG 1.4 Set_180
+  - first:
+      213: 9218907728283161491
+    second: New Content DG 1.4 Set_181
+  - first:
+      213: 1239653245354352231
+    second: New Content DG 1.4 Set_182
+  - first:
+      213: -2510621102022694907
+    second: New Content DG 1.4 Set_183
+  - first:
+      213: 2859876260642150778
+    second: New Content DG 1.4 Set_184
+  - first:
+      213: 4833519727190778840
+    second: New Content DG 1.4 Set_185
+  - first:
+      213: 4177233746832215308
+    second: New Content DG 1.4 Set_186
+  - first:
+      213: 7609239374516576196
+    second: New Content DG 1.4 Set_187
+  - first:
+      213: 5383612234844271591
+    second: New Content DG 1.4 Set_188
+  - first:
+      213: -8078225906526451436
+    second: New Content DG 1.4 Set_189
+  - first:
+      213: 2890549127945748400
+    second: New Content DG 1.4 Set_190
+  - first:
+      213: 5665557089053008811
+    second: New Content DG 1.4 Set_191
+  - first:
+      213: -8455677463894363067
+    second: New Content DG 1.4 Set_192
+  - first:
+      213: 2817169328483219423
+    second: New Content DG 1.4 Set_193
+  - first:
+      213: -1335956497194498625
+    second: New Content DG 1.4 Set_194
+  - first:
+      213: 3478748616033562219
+    second: New Content DG 1.4 Set_195
+  - first:
+      213: 3169792996130344705
+    second: New Content DG 1.4 Set_196
+  - first:
+      213: 1456183678211459525
+    second: New Content DG 1.4 Set_197
+  - first:
+      213: 2752878520721504155
+    second: New Content DG 1.4 Set_198
+  - first:
+      213: -1139651458192355679
+    second: New Content DG 1.4 Set_199
+  - first:
+      213: -6021035605389958014
+    second: New Content DG 1.4 Set_200
+  - first:
+      213: 3020795331323712718
+    second: New Content DG 1.4 Set_201
+  - first:
+      213: -8202000641223757744
+    second: New Content DG 1.4 Set_202
+  - first:
+      213: -6306919854467665165
+    second: New Content DG 1.4 Set_203
+  - first:
+      213: -3073027957186948347
+    second: New Content DG 1.4 Set_204
+  - first:
+      213: -6480058580604228409
+    second: New Content DG 1.4 Set_205
+  - first:
+      213: 3972808239558597152
+    second: New Content DG 1.4 Set_206
+  - first:
+      213: -1668783403290094867
+    second: New Content DG 1.4 Set_207
+  - first:
+      213: 1398157585791518919
+    second: New Content DG 1.4 Set_208
+  - first:
+      213: 7509805265779450197
+    second: New Content DG 1.4 Set_209
+  - first:
+      213: 3054808354176247569
+    second: New Content DG 1.4 Set_210
+  - first:
+      213: -8637443939175534597
+    second: New Content DG 1.4 Set_211
+  - first:
+      213: -888655613789533764
+    second: New Content DG 1.4 Set_212
+  - first:
+      213: -8807531408660772013
+    second: New Content DG 1.4 Set_213
+  - first:
+      213: -6690189683725576079
+    second: New Content DG 1.4 Set_214
+  - first:
+      213: -4918590585984156547
+    second: New Content DG 1.4 Set_215
+  - first:
+      213: -5804966937703377641
+    second: New Content DG 1.4 Set_216
+  - first:
+      213: 7297225663443300331
+    second: New Content DG 1.4 Set_217
+  - first:
+      213: 8925917485845266429
+    second: New Content DG 1.4 Set_218
+  - first:
+      213: 7873501252887347812
+    second: New Content DG 1.4 Set_219
+  - first:
+      213: 5414747187141878008
+    second: New Content DG 1.4 Set_220
+  - first:
+      213: -2166993466263396737
+    second: New Content DG 1.4 Set_221
+  - first:
+      213: -8939777515387137573
+    second: New Content DG 1.4 Set_222
+  - first:
+      213: 6339372386361230933
+    second: New Content DG 1.4 Set_223
+  - first:
+      213: 3244763216856731052
+    second: New Content DG 1.4 Set_224
+  - first:
+      213: 8108416193790992717
+    second: New Content DG 1.4 Set_225
+  - first:
+      213: 2561535139008414897
+    second: New Content DG 1.4 Set_226
+  - first:
+      213: -4724924098605022619
+    second: New Content DG 1.4 Set_227
+  - first:
+      213: 2651686160934627515
+    second: New Content DG 1.4 Set_228
+  - first:
+      213: 2931141951065946922
+    second: New Content DG 1.4 Set_229
+  - first:
+      213: 1383486785368637295
+    second: New Content DG 1.4 Set_230
+  - first:
+      213: -946514591083874651
+    second: New Content DG 1.4 Set_231
+  - first:
+      213: -1475556576766199296
+    second: New Content DG 1.4 Set_232
+  - first:
+      213: -8049575564299140420
+    second: New Content DG 1.4 Set_233
+  - first:
+      213: -2612349098389300787
+    second: New Content DG 1.4 Set_234
+  - first:
+      213: -5296412683045722330
+    second: New Content DG 1.4 Set_235
+  - first:
+      213: 7382894070249038279
+    second: New Content DG 1.4 Set_236
+  - first:
+      213: -7604064526114356327
+    second: New Content DG 1.4 Set_237
+  - first:
+      213: -6221870668678345247
+    second: New Content DG 1.4 Set_238
+  - first:
+      213: -6284674257936632933
+    second: New Content DG 1.4 Set_239
+  - first:
+      213: 1848319444464277850
+    second: New Content DG 1.4 Set_240
+  - first:
+      213: -368432490135192878
+    second: New Content DG 1.4 Set_241
+  - first:
+      213: 3964979224959838666
+    second: New Content DG 1.4 Set_242
+  - first:
+      213: -2169536203110373628
+    second: New Content DG 1.4 Set_243
+  - first:
+      213: 6877905362113824868
+    second: New Content DG 1.4 Set_244
+  - first:
+      213: -4388532497686315463
+    second: New Content DG 1.4 Set_245
+  - first:
+      213: -8816020734611953332
+    second: New Content DG 1.4 Set_246
+  - first:
+      213: -6982009072314399940
+    second: New Content DG 1.4 Set_247
+  - first:
+      213: 5996736397578289705
+    second: New Content DG 1.4 Set_248
+  - first:
+      213: -5365260328651050205
+    second: New Content DG 1.4 Set_249
+  - first:
+      213: 3026741365565781300
+    second: New Content DG 1.4 Set_250
+  - first:
+      213: 778787319667977681
+    second: New Content DG 1.4 Set_251
+  - first:
+      213: -3072478304889986279
+    second: New Content DG 1.4 Set_252
+  - first:
+      213: -2917703963678862618
+    second: New Content DG 1.4 Set_253
+  - first:
+      213: 3187657913865018970
+    second: New Content DG 1.4 Set_254
+  - first:
+      213: -5572056801877102335
+    second: New Content DG 1.4 Set_255
+  - first:
+      213: 2330022083957331605
+    second: New Content DG 1.4 Set_256
+  - first:
+      213: -8516900436801596868
+    second: New Content DG 1.4 Set_257
+  - first:
+      213: 1775425528294913354
+    second: New Content DG 1.4 Set_258
+  - first:
+      213: 3296417147274737688
+    second: New Content DG 1.4 Set_259
+  - first:
+      213: -8937022595063058156
+    second: New Content DG 1.4 Set_260
+  - first:
+      213: -3672192786028356950
+    second: New Content DG 1.4 Set_261
+  - first:
+      213: -64912426962381763
+    second: New Content DG 1.4 Set_262
+  - first:
+      213: 9105411865262708477
+    second: New Content DG 1.4 Set_263
+  - first:
+      213: 3661483434549937247
+    second: New Content DG 1.4 Set_264
+  - first:
+      213: -5591700942823744459
+    second: New Content DG 1.4 Set_265
+  - first:
+      213: -4713033969658744927
+    second: New Content DG 1.4 Set_266
+  - first:
+      213: -60897757089046903
+    second: New Content DG 1.4 Set_267
+  - first:
+      213: 8818506040101951156
+    second: New Content DG 1.4 Set_268
+  - first:
+      213: -5058727613972219461
+    second: New Content DG 1.4 Set_269
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 763
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0262cb315ee86c2f0800000000000000
+      internalID: -952917156612528608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 763
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5dfd77cc7d967c0800000000000000
+      internalID: -4077490714422815263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 763
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1a71fbc609f8c0800000000000000
+      internalID: -3965130523923572139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 763
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff0f769463498d10800000000000000
+      internalID: 2128306398209970164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 763
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5221393f6362a10800000000000000
+      internalID: 1884253913873524151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 763
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea7f9e9ae8f34fc0800000000000000
+      internalID: -3511689597851567389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 763
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d01f5539b383770800000000000000
+      internalID: 8590681793197313329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 763
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b956732e763a8e0800000000000000
+      internalID: -1683387614416757909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 651
+        width: 322
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b6cb0fb16e6f00800000000000000
+      internalID: 1111933631171310883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 731
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0239b09e943714f0800000000000000
+      internalID: -858159348353256949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 731
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaee8be24fe33e20800000000000000
+      internalID: 3329267620255820507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 731
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef4b933c8942b1d0800000000000000
+      internalID: -3336523507418050585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 731
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc17905024cf6a40800000000000000
+      internalID: 5363721324291628235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 731
+        width: 96
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7760b36d972b36b10800000000000000
+      internalID: 1973617298073388663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 731
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae151bef6f80a8b0800000000000000
+      internalID: -5142953063608934741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 699
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5f723c8714f640800000000000000
+      internalID: 5112737367882423414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 699
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dfa8123b6de8840800000000000000
+      internalID: 5228352282273971569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 699
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b020dac450412550800000000000000
+      internalID: 6134254900379394232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 699
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d774335d84aee5d90800000000000000
+      internalID: -7106985563408611459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 699
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdef8e73d507d1110800000000000000
+      internalID: 1233265418641669855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 699
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c171a05f2dcf10800000000000000
+      internalID: 2291539808753928035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 699
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af1eabc9b6c08f0800000000000000
+      internalID: -572964731688453564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 699
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf14d6086bdd22f0800000000000000
+      internalID: -995898702741364800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 699
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950ca98230880d80800000000000000
+      internalID: -8284230560001555054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 699
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a453e69548daa3f0800000000000000
+      internalID: -888660183056427866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 699
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c070a071eb6da440800000000000000
+      internalID: 4948730181551419590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_26
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 699
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc569db6e9b73790800000000000000
+      internalID: -7550361849588982581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 667
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca924a65bf29e70800000000000000
+      internalID: 9120628544918629564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 652
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccd0ab1d5bc549e0800000000000000
+      internalID: -1637679288723383103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 667
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72a0dc9af8ae87a0800000000000000
+      internalID: -6372970628356464002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 652
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445bcf5c5e3e2da20800000000000000
+      internalID: 3085779270710900036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 667
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaba8e99cac46cd0800000000000000
+      internalID: -2565702920397210967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 667
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c399ad58d3a06720800000000000000
+      internalID: 2837447914923070408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 667
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a26c82250e70150800000000000000
+      internalID: 5838882085385153171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 652
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afba1913eea869910800000000000000
+      internalID: 1843813853093276666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 651
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d73ed9195438060800000000000000
+      internalID: 6954478741311683891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 667
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef7670637aa16fb0800000000000000
+      internalID: -4656253127208042525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 651
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adbfa28235015d00800000000000000
+      internalID: 959553910105685408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 651
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae804cfc2f80e5320800000000000000
+      internalID: 2548484278099118314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 641
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891a1038239bbc90800000000000000
+      internalID: -7152961782332909179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 667
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c9b29b8afcfc70800000000000000
+      internalID: 9006348832203194688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_41
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 654
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f8e9f76cbe87130800000000000000
+      internalID: 3564858342840897280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 667
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50b769d639b51040800000000000000
+      internalID: 4617800638165135455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 667
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a80aa2875391390800000000000000
+      internalID: -7847182085488866680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 652
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8576ba4c3acbecae0800000000000000
+      internalID: -1527075812066760872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 652
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2997940875c75570800000000000000
+      internalID: 8455443944675186988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 652
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92496ce28e97e0a20800000000000000
+      internalID: 3030493637391062057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 652
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7752de7e591f4ad0800000000000000
+      internalID: -2715924156635785346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 652
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19906171223573200800000000000000
+      internalID: 159687717676255633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 635
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607280c474697d3b0800000000000000
+      internalID: -5487752387965212922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 635
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2229edf2f16f630800000000000000
+      internalID: 3960387212776973031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 635
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d768d82d1fa280800000000000000
+      internalID: -9029966666587975572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 636
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a66b3685f6a730800000000000000
+      internalID: 4010162475091009638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_53
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 636
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec32fbf26c553ec00800000000000000
+      internalID: 928680257861395406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 636
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ccae075971c1c0800000000000000
+      internalID: -4485170339068983634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 636
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5cfa439aba65c0800000000000000
+      internalID: -4221356558925407702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 636
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f678321f88088d0800000000000000
+      internalID: -2846124395233579119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 636
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae26fef7e5f487020800000000000000
+      internalID: 2339707273710887658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 636
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f896c59df588830800000000000000
+      internalID: 4073611250119577354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 636
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff5880812b08050800000000000000
+      internalID: 5800832136345157408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 636
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c4ad4e5d0cd9d0800000000000000
+      internalID: -2748306973922114301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 636
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6389a8c0ae4157350800000000000000
+      internalID: 6013735872888477750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 635
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fa140d528840d90800000000000000
+      internalID: -7132426213858889843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 636
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d552badf5501b040800000000000000
+      internalID: 4661512998554326484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 638
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919b83b00ee2041f0800000000000000
+      internalID: -1062797972263618279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_65
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 620
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f736aaeb257fd800800000000000000
+      internalID: 639358503590705138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 620
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb81a5c0bcde090800000000000000
+      internalID: -8003517708855886006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_67
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 620
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba8b1ffaac7b7a0800000000000000
+      internalID: -6361393091614037205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 620
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db06c0e81e58e0b0800000000000000
+      internalID: -5699201867494061103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_69
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 620
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb203fa7db223f40800000000000000
+      internalID: 5706671883188972487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_70
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 620
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7489f097971a51000800000000000000
+      internalID: 6088517605103687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 620
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627473cb5f24431f0800000000000000
+      internalID: -1066153588587804890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 620
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5539f14e6956090800000000000000
+      internalID: -8041855653073693217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 587
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3239e38a34fca40800000000000000
+      internalID: 5390601668869170128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d02b23d3a0b9c0800000000000000
+      internalID: -3913447948827961524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 587
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a858230e714c2f0800000000000000
+      internalID: -953610969407976810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 606
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51090baeb4a1b6a70800000000000000
+      internalID: 8821173208497557525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 604
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542553d009435ea0800000000000000
+      internalID: -5885280020148706215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 604
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6cf01b1b1853660800000000000000
+      internalID: 7364935365814109897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_79
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 587
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5ca0756ecf05f0800000000000000
+      internalID: -788184474689184714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_80
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 587
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e393c4e56e9075a0800000000000000
+      internalID: -6525541699592940574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_81
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 587
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a9aeb644a684240800000000000000
+      internalID: 4776184246927268450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_82
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 587
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e741d9010de9f50800000000000000
+      internalID: 6890173249696857643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_83
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 587
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc463f1f10f15390800000000000000
+      internalID: -7831214260562277130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_84
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 619
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514c57fbc0657e7e0800000000000000
+      internalID: -1736324518576274411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 604
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91798ddf89d5b9760800000000000000
+      internalID: 7465663718971971353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 604
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ad59f9c9704a2d0800000000000000
+      internalID: -3268479060290446815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 604
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e77863f41546400800000000000000
+      internalID: 316467274481892967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 604
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61326612bedee2b0800000000000000
+      internalID: -5553256434040163987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 604
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c1832e27a8d4d0800000000000000
+      internalID: -3109551726093286947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_90
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 604
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e26cbea8abd610800000000000000
+      internalID: 1647095557172421782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 604
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5290f11e165b2710800000000000000
+      internalID: 1669522774020887131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 604
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3849fcf877ca1e0d0800000000000000
+      internalID: -3395243014546811773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 606
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21f4d8281e7b590800000000000000
+      internalID: -7658404690487471451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d898eed77fb512e0800000000000000
+      internalID: -2155606325065115431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_95
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a700dc2892f354c0800000000000000
+      internalID: -4299826483807909978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_96
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2261573e8429170800000000000000
+      internalID: 8183683614644773579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246e6f0cba3c5620800000000000000
+      internalID: 2764148850685797419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33defcbd098aeeac0800000000000000
+      internalID: -3823933693474378445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03fdb7c92a97910800000000000000
+      internalID: 1835677116107010294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1789f5e706d969760800000000000000
+      internalID: 7464326470175791217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60a76ef8495732e0800000000000000
+      internalID: -2146148527378030482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 587
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47aa4cbe7ef7c9c0800000000000000
+      internalID: -3906874331442272438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 587
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25f3a038c81e340800000000000000
+      internalID: 4891345164741595876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 577
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4a0697797f4ee0800000000000000
+      internalID: -1274666614997235113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_105
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 590
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9c2bf1b6f684160800000000000000
+      internalID: 7009975325886171631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 572
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd29df30bf3ca570800000000000000
+      internalID: 8479222224649792963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 572
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f75b53d94f6fdd0800000000000000
+      internalID: -2452503991008526449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_108
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 587
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93960dcd4707b4c0800000000000000
+      internalID: -4271937690803989603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 571
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0977f77f3760d0800000000000000
+      internalID: -3429702806733780134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 571
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96900a1d693a3e4a0800000000000000
+      internalID: -6565223963618702999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 571
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95baf2c73b8c07c0800000000000000
+      internalID: -4103752088830691942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 572
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a22bad1b2ee7a70800000000000000
+      internalID: 8826741573198948887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_113
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 571
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93fd1e65a56730d0800000000000000
+      internalID: -3443171628909988964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_114
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 574
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68f7eaa22319c30800000000000000
+      internalID: 4364324672796329706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_115
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 555
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bedeed658985820800000000000000
+      internalID: 2907241058342398810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_116
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 555
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caaf76d835a701c0800000000000000
+      internalID: -4537476436017042750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c905ee01f07c63e80800000000000000
+      internalID: -8199147204058918756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4876b87037f4a1da0800000000000000
+      internalID: -5973374600287131772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a6244e9eb67f280800000000000000
+      internalID: -9009613877230278060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b07f8bf9cbe76e0800000000000000
+      internalID: -1837824203731563687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6cd815fd01c2850800000000000000
+      internalID: 6353471725644924632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdab8c0e9692b7540800000000000000
+      internalID: 5006640945471994588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7788ae4dfdf5190800000000000000
+      internalID: -7971406709861615689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 545
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d09ef146f3e930800000000000000
+      internalID: 4171448443179423425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_125
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 523
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd213b5c201544850800000000000000
+      internalID: 6360297646102614747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 540
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f8dcea8aeb5ab00800000000000000
+      internalID: 839286537270955865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_127
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 523
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0bbf5f33fee360800000000000000
+      internalID: 7200960307726585230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 542
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b263d7d6af5fde10800000000000000
+      internalID: 2224601911134479028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 542
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb509bfb6ba818d0800000000000000
+      internalID: -2875359881805669403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971d30d48df35c00800000000000000
+      internalID: 888332298393294745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 540
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c93f8a1e9c13740800000000000000
+      internalID: 5130103421591067789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_132
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 491
+        width: 146
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e687beabf04600800000000000000
+      internalID: 450636690559002320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_133
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 523
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8f295fd2df83350800000000000000
+      internalID: 5996821277679220935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_134
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 530
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483fd3a4a043c7ee0800000000000000
+      internalID: -1262076576770690172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_135
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 523
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b01f4db608c7780800000000000000
+      internalID: -8683924780854735992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f538b865fd58e7680800000000000000
+      internalID: -8755413431285480609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f601749eb234d0dd0800000000000000
+      internalID: -2518282760753835921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c688213f7fe7c68c0800000000000000
+      internalID: -4004686365239113620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b4fe6ad660943f0800000000000000
+      internalID: -916193981171283042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aab0db2475ba9fb0800000000000000
+      internalID: -4640196955495941466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d2a4c34d09a6cb0800000000000000
+      internalID: -4869920805828809386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2903bf3d9ce1a0800000000000000
+      internalID: -6778870442187215524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a547ea2338249fef0800000000000000
+      internalID: -73954787616459686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 523
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ab43e8ee340270800000000000000
+      internalID: 8215760790197346311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_145
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 523
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85200850142b319d0800000000000000
+      internalID: -2804702150586793384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_146
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 513
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe855f6e2c7330050800000000000000
+      internalID: 5765513258202388719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_147
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 526
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f774f63c4232e8440800000000000000
+      internalID: 4939924482076657535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 508
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966438c6e525e5ae0800000000000000
+      internalID: -1558717855522666903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_149
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 508
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8190aeda69924e310800000000000000
+      internalID: 1433316308550289688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 507
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bf3ee29e67346d0800000000000000
+      internalID: -3007429382267208887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_151
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 507
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642cb397be7a6d520800000000000000
+      internalID: 2726551254212526662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 507
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0cd9da46a7dcda0800000000000000
+      internalID: -5922943362094219068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 508
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f191b4ebd08f86c50800000000000000
+      internalID: 6658844786978134303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_154
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 507
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f464dc9d63f65cdf0800000000000000
+      internalID: -160599930328758705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_155
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 510
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454014af8713e37a0800000000000000
+      internalID: -6395620025155124140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_156
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 475
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59167ce6ca825b6c0800000000000000
+      internalID: -4128348762357145195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_157
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 475
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa7cdf7b62f0c300800000000000000
+      internalID: 270482521162808057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_158
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 475
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e33b5393b85229f0800000000000000
+      internalID: -494735480762715168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 471
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3c753c2fa860630800000000000000
+      internalID: 3892951703172400076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b1ab0764b2d460800000000000000
+      internalID: 7265067503571809821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 476
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3a0509bfd3c750800000000000000
+      internalID: 6324144287504809792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_162
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 475
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4230c8f6cb4bdb20800000000000000
+      internalID: 3160202881479488074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 478
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17f472a4ad5e9b0800000000000000
+      internalID: -5051391395004190281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 478
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa20eaada847cbf0800000000000000
+      internalID: -304194539090859352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 476
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df4cc62d42bf9610800000000000000
+      internalID: 1630217634564558808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 476
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1846f9ae100592250800000000000000
+      internalID: 5920351154316731521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_167
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 219
+        width: 338
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4be01578266b0080800000000000000
+      internalID: -9220163488162190517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 429
+        width: 194
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae308aff3bc8230800000000000000
+      internalID: 3642484109252749892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_169
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 427
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219b54d04d3face80800000000000000
+      internalID: -8157439682946942702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_170
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 427
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6e51bc84589120800000000000000
+      internalID: 2420777762959551340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_171
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 357
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f702d971a3e5f10800000000000000
+      internalID: 2260307936081379119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_172
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 315
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43017c8b4a7cca0800000000000000
+      internalID: -5996643265299860305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_173
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 283
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3ff87e7690ae6d0800000000000000
+      internalID: -2960543463171427379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_174
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 283
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcda1e3e5d69f990800000000000000
+      internalID: -7351724665169322753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_175
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 363
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d13f1f428fc2ac0800000000000000
+      internalID: -3878452341511086836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_176
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 283
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eae8612d6423ec0800000000000000
+      internalID: -3588728084925338092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_177
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 363
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe697ba73dd6410800000000000000
+      internalID: 1472065177239612365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_178
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 347
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656142a6d93edac0800000000000000
+      internalID: -3828559039210363549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_179
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 283
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84afa42ac0d35060800000000000000
+      internalID: 6941121017325528205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_180
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 188
+        width: 130
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26386ebef486cdf80800000000000000
+      internalID: -8080468938940054686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_181
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 155
+        width: 258
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393db692cb320ff70800000000000000
+      internalID: 9218907728283161491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_182
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 134
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e91060f02243110800000000000000
+      internalID: 1239653245354352231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_183
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 133
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5086658d86b782dd0800000000000000
+      internalID: -2510621102022694907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_184
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 132
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d5298e4250b720800000000000000
+      internalID: 2859876260642150778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_185
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 131
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3ac02359c141340800000000000000
+      internalID: 4833519727190778840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_186
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 134
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d45b7f5f388f930800000000000000
+      internalID: 4177233746832215308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_187
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 133
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfd9f845e2799960800000000000000
+      internalID: 7609239374516576196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_188
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 132
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3f652ddce66ba40800000000000000
+      internalID: 5383612234844271591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_189
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 131
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419022a965064ef80800000000000000
+      internalID: -8078225906526451436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_190
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7509fd1b4d1820800000000000000
+      internalID: 2890549127945748400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_191
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba363b3b72a10ae40800000000000000
+      internalID: 5665557089053008811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_192
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544fc4d852667aa80800000000000000
+      internalID: -8455677463894363067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_193
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73e580498981720800000000000000
+      internalID: 2817169328483219423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_194
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c85dd4aab57de0800000000000000
+      internalID: -1335956497194498625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_195
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eef816f6ff64030800000000000000
+      internalID: 3478748616033562219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_196
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fced98fed5dfb20800000000000000
+      internalID: 3169792996130344705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_197
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c904831757653410800000000000000
+      internalID: 1456183678211459525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_198
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b977861ed60343620800000000000000
+      internalID: 2752878520721504155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_199
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae40b279052f20f0800000000000000
+      internalID: -1139651458192355679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_200
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284a0c8840cf07ca0800000000000000
+      internalID: -6021035605389958014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_201
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec455b659550ce920800000000000000
+      internalID: 3020795331323712718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_202
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050f4547fd3ac2e80800000000000000
+      internalID: -8202000641223757744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_203
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b89fcec15978a0800000000000000
+      internalID: -6306919854467665165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_204
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5031703ca596a55d0800000000000000
+      internalID: -3073027957186948347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_205
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 139
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccec53cd053216a0800000000000000
+      internalID: -6480058580604228409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_206
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a92a78b00422730800000000000000
+      internalID: 3972808239558597152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de293d7165a47d8e0800000000000000
+      internalID: -1668783403290094867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c80f11aae0476310800000000000000
+      internalID: 1398157585791518919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_209
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 80
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551642fb910383860800000000000000
+      internalID: 7509805265779450197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_210
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1172297530cd46a20800000000000000
+      internalID: 3054808354176247569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_211
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff671e1082a12880800000000000000
+      internalID: -8637443939175534597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_212
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 123
+        width: 258
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb90b647d6cdaa3f0800000000000000
+      internalID: -888655613789533764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_213
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 81
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bcdae19dc55c580800000000000000
+      internalID: -8807531408660772013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_214
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 80
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178dd85cdeba723a0800000000000000
+      internalID: -6690189683725576079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_215
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 82
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c75defbe7adbbb0800000000000000
+      internalID: -4918590585984156547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_216
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 81
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159d41835d907fa0800000000000000
+      internalID: -5804966937703377641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_217
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 80
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe66b1414f44560800000000000000
+      internalID: 7297225663443300331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_218
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 84
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff314e69aa3fdb70800000000000000
+      internalID: 8925917485845266429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_219
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 83
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46281f48cab444d60800000000000000
+      internalID: 7873501252887347812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_220
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 82
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0232ec0eb052b40800000000000000
+      internalID: 5414747187141878008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_221
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 81
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e17c47cea4de1e0800000000000000
+      internalID: -2166993466263396737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_222
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 80
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15358f6b78fe380800000000000000
+      internalID: -8939777515387137573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_223
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 82
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564bf31999f9f750800000000000000
+      internalID: 6339372386361230933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_224
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 81
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcff844f6b70d20800000000000000
+      internalID: 3244763216856731052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_225
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 80
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41efe96191e68070800000000000000
+      internalID: 8108416193790992717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_226
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 84
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4074823a66c8320800000000000000
+      internalID: 2561535139008414897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_227
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 83
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56207f7e092bd6eb0800000000000000
+      internalID: -4724924098605022619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_228
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 82
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8e35e938eacc420800000000000000
+      internalID: 2651686160934627515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_229
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bf78b13128da820800000000000000
+      internalID: 2931141951065946922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3859b6e1233310800000000000000
+      internalID: 1383486785368637295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_231
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 16
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b8b78efd4dd2f0800000000000000
+      internalID: -946514591083874651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_232
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00afbdb7c15c58be0800000000000000
+      internalID: -1475556576766199296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_233
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 59
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb209493ca92a4090800000000000000
+      internalID: -8049575564299140420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_234
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 59
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc99139f5521fbbd0800000000000000
+      internalID: -2612349098389300787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_235
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 59
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627af23f9bc5f76b0800000000000000
+      internalID: -5296412683045722330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_236
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 59
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c128876a0f457660800000000000000
+      internalID: 7382894070249038279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_237
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 59
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930ecff99fe87690800000000000000
+      internalID: -7604064526114356327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_238
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 59
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed410b779977a9a0800000000000000
+      internalID: -6221870668678345247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_239
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 59
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9335ae5f0a58c8a0800000000000000
+      internalID: -6284674257936632933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_240
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 59
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599dbeedbc86a910800000000000000
+      internalID: 1848319444464277850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_241
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da77cd2a9013eaf0800000000000000
+      internalID: -368432490135192878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_242
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e885099f660730800000000000000
+      internalID: 3964979224959838666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_243
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 50
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a146615244e1e0800000000000000
+      internalID: -2169536203110373628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_244
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688c837c7a337f50800000000000000
+      internalID: 6877905362113824868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_245
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e362ed1fcc813c0800000000000000
+      internalID: -4388532497686315463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_246
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 52
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e9f4e9d337a580800000000000000
+      internalID: -8816020734611953332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_247
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334522bdbbea1f90800000000000000
+      internalID: -6982009072314399940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_248
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 50
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9224f454bffa83350800000000000000
+      internalID: 5996736397578289705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_249
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323324f4824ca85b0800000000000000
+      internalID: -5365260328651050205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_250
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43577815c35210a20800000000000000
+      internalID: 3026741365565781300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_251
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 50
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd6368e0fececa00800000000000000
+      internalID: 778787319667977681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_252
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 49
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91320f8a24d5c55d0800000000000000
+      internalID: -3072478304889986279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_253
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e21c2524bb3287d0800000000000000
+      internalID: -2917703963678862618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_254
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 52
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e1365dbf5dc3c20800000000000000
+      internalID: 3187657913865018970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_255
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 51
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f0d75cd31ca2b0800000000000000
+      internalID: -5572056801877102335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_256
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 50
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59697198db6e55020800000000000000
+      internalID: 2330022083957331605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_257
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32521d5d24edc980800000000000000
+      internalID: -8516900436801596868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_258
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45bd238c1493a810800000000000000
+      internalID: 1775425528294913354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_259
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81831d62ee93fbd20800000000000000
+      internalID: 3296417147274737688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_260
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41170a7dc4159f380800000000000000
+      internalID: -8937022595063058156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_261
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa17020e10c90dc0800000000000000
+      internalID: -3672192786028356950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_262
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d341669dd72691ff0800000000000000
+      internalID: -64912426962381763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_263
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df65c9259dbec5e70800000000000000
+      internalID: 9105411865262708477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_264
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54835bc8c330d230800000000000000
+      internalID: 3661483434549937247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_265
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 33
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c16cc5e994662b0800000000000000
+      internalID: -5591700942823744459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_266
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 32
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af24284390f79eb0800000000000000
+      internalID: -4713033969658744927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_267
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ed61500d5a72ff0800000000000000
+      internalID: -60897757089046903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_268
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6d9e16580a16a70800000000000000
+      internalID: 8818506040101951156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Content DG 1.4 Set_269
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 29
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f9b1990acbc9b0800000000000000
+      internalID: -5058727613972219461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
