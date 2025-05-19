@@ -14,10 +14,9 @@ public class golpearma : MonoBehaviour
     void Update()
     {
         // Verifica si se presionó el botón y si ha pasado el tiempo de cooldown
-        if (Input.GetMouseButtonDown(0) && Time.time >= nextGolpeTime)
+        if (Time.time >= nextGolpeTime)
         {
             animator.SetTrigger("Golpear");
-            // Establece el próximo tiempo disponible para golpear
             nextGolpeTime = Time.time + cooldownTime;
         }
     }
