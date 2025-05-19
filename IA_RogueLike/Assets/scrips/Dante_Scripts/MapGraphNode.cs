@@ -22,15 +22,12 @@ public class MapGraphNode<T>
 
     //Poliformismo (Multiples formas de ejecutar una funcion)
     //    En funciones se diferencian en los parametros de entrada
-    public void ConnectTo(MapGraphNode<T> target, Direction direction, int distance = 0)
+    public void ConnectTo(MapGraphNode<T> target, Direction direction, int distance = 0) //
     {
         //TODO Crear una funciopn que apartir de una direction y un distance, me regrese un vec3 int
-
         DirectionalPlacer directionalPlacer = new DirectionalPlacer(distance);
 
-        
-
-        Vector3Int offset = directionalPlacer.GetAdjacentPosition(direction, distance);
+        Vector3Int offset = directionalPlacer.GetAdjacentPosition((this.value as IBlockGenerator).Generate(Vector3Int.zero), direction, ((target.value as IBlockGenerator).Generate(Vector3Int.zero)).width, ((target.value as IBlockGenerator).Generate(Vector3Int.zero)).height);
         ConnectTo(target, offset);
     }
 

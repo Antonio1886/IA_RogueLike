@@ -317,7 +317,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tilemap: {fileID: 34941096}
-  tilesForFactory: []
+  tilesForFactory:
+  - {fileID: 11400000, guid: f4a5976dcf91f4b438a2fa2cdfad71d9, type: 2}
 --- !u!4 &894234953
 Transform:
   m_ObjectHideFlags: 0
