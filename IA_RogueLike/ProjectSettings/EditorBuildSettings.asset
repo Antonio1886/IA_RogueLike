@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: "Assets/Scenes/Selecci\xF3nPersonaje/MenuSeleccionPersonaje.unity"
+    guid: d37932989bbb565408ed49bf70a7b394
+  - enabled: 1
+    path: "Assets/Scenes/Selecci\xF3nPersonaje/KnightScene.unity"
+    guid: 5edb7db4aa0b700449d729cf51b521aa
+  - enabled: 1
+    path: "Assets/Scenes/Selecci\xF3nPersonaje/LancerScene.unity"
+    guid: 520b5104ec1d8104ca6d8d47e68a031f
+  - enabled: 1
+    path: "Assets/Scenes/Selecci\xF3nPersonaje/OniScene.unity"
+    guid: dfc0c8b259777554f8ebb105bc8697f1
+  - enabled: 1
+    path: "Assets/Scenes/Selecci\xF3nPersonaje/RogueScene.unity"
+    guid: df695e21b6ff72a4592be3e9da66797e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

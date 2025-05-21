@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CharacterSelecctionMenu : MonoBehaviour
 {
@@ -9,7 +10,7 @@ public class CharacterSelecctionMenu : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        SelectKnight();
     }
 
     // Update is called once per frame
@@ -19,30 +20,57 @@ public class CharacterSelecctionMenu : MonoBehaviour
     }
     public void SelectKnight()
     {
+        SetAllInactive();
         knight.SetActive(true);
-        Oni.SetActive(false);
-        Lancer.SetActive(false);
-        Rogue.SetActive(false);
     }
     public void SelectOni()
     {
-        knight.SetActive(false);
+        SetAllInactive();
         Oni.SetActive(true);
-        Lancer.SetActive(false);
-        Rogue.SetActive(false);
     }
     public void SelectLancer()
     {
-        knight.SetActive(false);
-        Oni.SetActive(false);
+        SetAllInactive();
         Lancer.SetActive(true);
-        Rogue.SetActive(false);
     }
     public void SelectRogue()
+    {
+        SetAllInactive();
+        Rogue.SetActive(true);
+    }
+
+    private void SetAllInactive()
     {
         knight.SetActive(false);
         Oni.SetActive(false);
         Lancer.SetActive(false);
-        Rogue.SetActive(true);
+        Rogue.SetActive(false);
     }
+
+    public void StartGame()
+    {
+        if (knight.activeSelf)
+        {
+            SceneManager.LoadScene("KnightScene");
+        }
+        else if (Oni.activeSelf)
+        {
+            SceneManager.LoadScene("OniScene");
+        }
+        else if (Lancer.activeSelf)
+        {
+            SceneManager.LoadScene("LancerScene");
+        }
+        else if (Rogue.activeSelf)
+        {
+            SceneManager.LoadScene("RogueScene");
+        }
+        else
+        {
+            Debug.LogWarning("No se ha seleccionado ningún personaje");
+            // Opcional: Seleccionar uno por defecto o mostrar mensaje al usuario
+        }
+    }
+
+
 }
