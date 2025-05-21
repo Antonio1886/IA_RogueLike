@@ -1,0 +1,778 @@
+fileFormatVersion: 2
+guid: 2ca1166ea91ca314d85369237d8581b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8217318006825219516
+    second: Base 2 Hex Buttons & Text 1_0
+  - first:
+      213: -1803464030475202869
+    second: Base 2 Hex Buttons & Text 1_1
+  - first:
+      213: 7731212562330227918
+    second: Base 2 Hex Buttons & Text 1_2
+  - first:
+      213: -7199569832807667189
+    second: Base 2 Hex Buttons & Text 1_3
+  - first:
+      213: -1933088157573937787
+    second: Base 2 Hex Buttons & Text 1_4
+  - first:
+      213: 4801652746357281500
+    second: Base 2 Hex Buttons & Text 1_5
+  - first:
+      213: -1053853099609750154
+    second: Base 2 Hex Buttons & Text 1_6
+  - first:
+      213: 4558054148244476790
+    second: Base 2 Hex Buttons & Text 1_7
+  - first:
+      213: 2898069864692079786
+    second: Base 2 Hex Buttons & Text 1_8
+  - first:
+      213: -6642918958975147607
+    second: Base 2 Hex Buttons & Text 1_9
+  - first:
+      213: -6412493920785468457
+    second: Base 2 Hex Buttons & Text 1_10
+  - first:
+      213: 2084047707111067598
+    second: Base 2 Hex Buttons & Text 1_11
+  - first:
+      213: -2367058098991618027
+    second: Base 2 Hex Buttons & Text 1_12
+  - first:
+      213: -5527712609538830277
+    second: Base 2 Hex Buttons & Text 1_13
+  - first:
+      213: -5255593305504974495
+    second: Base 2 Hex Buttons & Text 1_14
+  - first:
+      213: 8803613405745096179
+    second: Base 2 Hex Buttons & Text 1_15
+  - first:
+      213: -8841254294787068122
+    second: Base 2 Hex Buttons & Text 1_16
+  - first:
+      213: -7424759674486156711
+    second: Base 2 Hex Buttons & Text 1_17
+  - first:
+      213: 5989520474291881577
+    second: Base 2 Hex Buttons & Text 1_18
+  - first:
+      213: -2901562346456700552
+    second: Base 2 Hex Buttons & Text 1_19
+  - first:
+      213: -9019640859685280573
+    second: Base 2 Hex Buttons & Text 1_20
+  - first:
+      213: 4074419693775430278
+    second: Base 2 Hex Buttons & Text 1_21
+  - first:
+      213: 1426360245620907769
+    second: Base 2 Hex Buttons & Text 1_22
+  - first:
+      213: 7256461046552951586
+    second: Base 2 Hex Buttons & Text 1_23
+  - first:
+      213: -5445286051731508396
+    second: Base 2 Hex Buttons & Text 1_24
+  - first:
+      213: 9142621803676767391
+    second: Base 2 Hex Buttons & Text 1_25
+  - first:
+      213: 7172102994074419777
+    second: Base 2 Hex Buttons & Text 1_26
+  - first:
+      213: 5216778393642662073
+    second: Base 2 Hex Buttons & Text 1_27
+  - first:
+      213: 6194400214244553915
+    second: Base 2 Hex Buttons & Text 1_28
+  - first:
+      213: -2065792205433739664
+    second: Base 2 Hex Buttons & Text 1_29
+  - first:
+      213: -3471751140821166022
+    second: Base 2 Hex Buttons & Text 1_30
+  - first:
+      213: 5368891075179396662
+    second: Base 2 Hex Buttons & Text 1_31
+  - first:
+      213: 3850455646350985763
+    second: Base 2 Hex Buttons & Text 1_32
+  - first:
+      213: 4044644569832082031
+    second: Base 2 Hex Buttons & Text 1_33
+  - first:
+      213: -9102448598397070207
+    second: Base 2 Hex Buttons & Text 1_34
+  - first:
+      213: 3967129187162416462
+    second: Base 2 Hex Buttons & Text 1_35
+  - first:
+      213: 1460901960210030946
+    second: Base 2 Hex Buttons & Text 1_36
+  - first:
+      213: 7487317083629695336
+    second: Base 2 Hex Buttons & Text 1_37
+  - first:
+      213: -5853139684051077829
+    second: Base 2 Hex Buttons & Text 1_38
+  - first:
+      213: -2313393778353835698
+    second: Base 2 Hex Buttons & Text 1_39
+  - first:
+      213: 778744664644921736
+    second: Base 2 Hex Buttons & Text 1_40
+  - first:
+      213: 4226527590107844902
+    second: Base 2 Hex Buttons & Text 1_41
+  - first:
+      213: 2727628650869721211
+    second: Base 2 Hex Buttons & Text 1_42
+  - first:
+      213: -3988155356139732630
+    second: Base 2 Hex Buttons & Text 1_43
+  - first:
+      213: 7783210939176432996
+    second: Base 2 Hex Buttons & Text 1_44
+  - first:
+      213: 573792107394351303
+    second: Base 2 Hex Buttons & Text 1_45
+  - first:
+      213: 2105283518630375957
+    second: Base 2 Hex Buttons & Text 1_46
+  - first:
+      213: 4051750145612724008
+    second: Base 2 Hex Buttons & Text 1_47
+  - first:
+      213: -7144498842181163119
+    second: Base 2 Hex Buttons & Text 1_48
+  - first:
+      213: 7914834405490299535
+    second: Base 2 Hex Buttons & Text 1_49
+  - first:
+      213: 2616121834953760115
+    second: Base 2 Hex Buttons & Text 1_50
+  - first:
+      213: -7864683308495664818
+    second: Base 2 Hex Buttons & Text 1_51
+  - first:
+      213: 5325788092353239237
+    second: Base 2 Hex Buttons & Text 1_52
+  - first:
+      213: 8907230766518827261
+    second: Base 2 Hex Buttons & Text 1_53
+  - first:
+      213: 7171842307912047903
+    second: Base 2 Hex Buttons & Text 1_54
+  - first:
+      213: -2402737880106796862
+    second: Base 2 Hex Buttons & Text 1_55
+  - first:
+      213: -7423084518512940990
+    second: Base 2 Hex Buttons & Text 1_56
+  - first:
+      213: -1094206519936622979
+    second: Base 2 Hex Buttons & Text 1_57
+  - first:
+      213: 8610161668787243155
+    second: Base 2 Hex Buttons & Text 1_58
+  - first:
+      213: -5818583084427464432
+    second: Base 2 Hex Buttons & Text 1_59
+  - first:
+      213: 4988675210304530841
+    second: Base 2 Hex Buttons & Text 1_60
+  - first:
+      213: 2286531051914116319
+    second: Base 2 Hex Buttons & Text 1_61
+  - first:
+      213: 3530410099936986567
+    second: Base 2 Hex Buttons & Text 1_62
+  - first:
+      213: -921909795892714132
+    second: Base 2 Hex Buttons & Text 1_63
+  - first:
+      213: 5791275815555279178
+    second: Base 2 Hex Buttons & Text 1_64
+  - first:
+      213: 7519199004618009734
+    second: Base 2 Hex Buttons & Text 1_65
+  - first:
+      213: 8111933131307454009
+    second: Base 2 Hex Buttons & Text 1_66
+  - first:
+      213: -876710207940920046
+    second: Base 2 Hex Buttons & Text 1_67
+  - first:
+      213: -83577620179315633
+    second: Base 2 Hex Buttons & Text 1_68
+  - first:
+      213: -3013135145667668700
+    second: Base 2 Hex Buttons & Text 1_69
+  - first:
+      213: 5841851933422387132
+    second: Base 2 Hex Buttons & Text 1_70
+  - first:
+      213: 9082075597954071069
+    second: Base 2 Hex Buttons & Text 1_71
+  - first:
+      213: 3853876065920645902
+    second: Base 2 Hex Buttons & Text 1_72
+  - first:
+      213: 5537862195667143817
+    second: Base 2 Hex Buttons & Text 1_73
+  - first:
+      213: 6386746066698324870
+    second: Base 2 Hex Buttons & Text 1_74
+  - first:
+      213: -1108747663826852147
+    second: Base 2 Hex Buttons & Text 1_75
+  - first:
+      213: -4039062591306885204
+    second: Base 2 Hex Buttons & Text 1_76
+  - first:
+      213: -8522814035854126621
+    second: Base 2 Hex Buttons & Text 1_77
+  - first:
+      213: -8241719854584957345
+    second: Base 2 Hex Buttons & Text 1_78
+  - first:
+      213: 43921241169128062
+    second: Base 2 Hex Buttons & Text 1_79
+  - first:
+      213: -6990714411342293726
+    second: Base 2 Hex Buttons & Text 1_80
+  - first:
+      213: -5928119170142855570
+    second: Base 2 Hex Buttons & Text 1_81
+  - first:
+      213: -4164022536252402511
+    second: Base 2 Hex Buttons & Text 1_82
+  - first:
+      213: -2694626089781449624
+    second: Base 2 Hex Buttons & Text 1_83
+  - first:
+      213: -4484454942766715740
+    second: Base 2 Hex Buttons & Text 1_84
+  - first:
+      213: -232133641565349838
+    second: Base 2 Hex Buttons & Text 1_85
+  - first:
+      213: 7927474012087824860
+    second: Base 2 Hex Buttons & Text 1_86
+  - first:
+      213: -3726774995635236689
+    second: Base 2 Hex Buttons & Text 1_87
+  - first:
+      213: 8025580197237702293
+    second: Base 2 Hex Buttons & Text 1_88
+  - first:
+      213: -4585673659677592410
+    second: Base 2 Hex Buttons & Text 1_89
+  - first:
+      213: 2002457255839461119
+    second: Base 2 Hex Buttons & Text 1_90
+  - first:
+      213: -5329415984595068355
+    second: Base 2 Hex Buttons & Text 1_91
+  - first:
+      213: -4330499054526579012
+    second: Base 2 Hex Buttons & Text 1_92
+  - first:
+      213: 3736188850392379123
+    second: Base 2 Hex Buttons & Text 1_93
+  - first:
+      213: 5658397033379571494
+    second: Base 2 Hex Buttons & Text 1_94
+  - first:
+      213: -1168812803105609132
+    second: Base 2 Hex Buttons & Text 1_95
+  - first:
+      213: 442932756620073958
+    second: Base 2 Hex Buttons & Text 1_96
+  - first:
+      213: -3795732033275920624
+    second: Base 2 Hex Buttons & Text 1_97
+  - first:
+      213: -5084716891065133487
+    second: Base 2 Hex Buttons & Text 1_98
+  - first:
+      213: -7570094941431805758
+    second: Base 2 Hex Buttons & Text 1_99
+  - first:
+      213: 6161385515599712050
+    second: Base 2 Hex Buttons & Text 1_100
+  - first:
+      213: -1563080608701093292
+    second: Base 2 Hex Buttons & Text 1_101
+  - first:
+      213: -8446129657247419378
+    second: Base 2 Hex Buttons & Text 1_102
+  - first:
+      213: -6133857758283530689
+    second: Base 2 Hex Buttons & Text 1_103
+  - first:
+      213: 7898000564987830312
+    second: Base 2 Hex Buttons & Text 1_104
+  - first:
+      213: -6582634084346407549
+    second: Base 2 Hex Buttons & Text 1_105
+  - first:
+      213: -678188000782856153
+    second: Base 2 Hex Buttons & Text 1_106
+  - first:
+      213: 5962030940945350193
+    second: Base 2 Hex Buttons & Text 1_107
+  - first:
+      213: -6122310407348461009
+    second: Base 2 Hex Buttons & Text 1_108
+  - first:
+      213: 4428658858511940929
+    second: Base 2 Hex Buttons & Text 1_109
+  - first:
+      213: -3642841347619760743
+    second: Base 2 Hex Buttons & Text 1_110
+  - first:
+      213: -2994640645323463442
+    second: Base 2 Hex Buttons & Text 1_111
+  - first:
+      213: 7829756340373271357
+    second: Base 2 Hex Buttons & Text 1_112
+  - first:
+      213: 4087619663671419220
+    second: Base 2 Hex Buttons & Text 1_113
+  - first:
+      213: -5166219813770861123
+    second: Base 2 Hex Buttons & Text 1_114
+  - first:
+      213: -3199603893203755160
+    second: Base 2 Hex Buttons & Text 1_115
+  - first:
+      213: 3221223842933963093
+    second: Base 2 Hex Buttons & Text 1_116
+  - first:
+      213: 4016178111234926070
+    second: Base 2 Hex Buttons & Text 1_117
+  - first:
+      213: -5311096098652224634
+    second: Base 2 Hex Buttons & Text 1_118
+  - first:
+      213: 4589043490486613687
+    second: Base 2 Hex Buttons & Text 1_119
+  - first:
+      213: -2121156732893557332
+    second: Base 2 Hex Buttons & Text 1_120
+  - first:
+      213: -5726776491759958208
+    second: Base 2 Hex Buttons & Text 1_121
+  - first:
+      213: -2372653218349613964
+    second: Base 2 Hex Buttons & Text 1_122
+  - first:
+      213: 4200184688171751038
+    second: Base 2 Hex Buttons & Text 1_123
+  - first:
+      213: -8641607792290356569
+    second: Base 2 Hex Buttons & Text 1_124
+  - first:
+      213: 6635560147956270411
+    second: Base 2 Hex Buttons & Text 1_125
+  - first:
+      213: -8300116888743461850
+    second: Base 2 Hex Buttons & Text 1_126
+  - first:
+      213: -5148170634548895922
+    second: Base 2 Hex Buttons & Text 1_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base 2 Hex Buttons & Text 1_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 590
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5fc33a037c90270800000000000000
+      internalID: 8217318006825219516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base 2 Hex Buttons & Text 1_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 542
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6822751df1f3b8830800000000000000
+      internalID: 4074419693775430278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base 2 Hex Buttons & Text 1_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 496
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88924e28528aeca00800000000000000
+      internalID: 778744664644921736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base 2 Hex Buttons & Text 1_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ba9c438d304fa0800000000000000
+      internalID: -5818583084427464432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base 2 Hex Buttons & Text 1_107
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 128
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e7fe67d836db250800000000000000
+      internalID: 5962030940945350193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 50cd4fb67997b514da6c595b5a20464b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Base 2 Hex Buttons & Text 1_0: 8217318006825219516
+      Base 2 Hex Buttons & Text 1_1: -1803464030475202869
+      Base 2 Hex Buttons & Text 1_10: -6412493920785468457
+      Base 2 Hex Buttons & Text 1_100: 6161385515599712050
+      Base 2 Hex Buttons & Text 1_101: -1563080608701093292
+      Base 2 Hex Buttons & Text 1_102: -8446129657247419378
+      Base 2 Hex Buttons & Text 1_103: -6133857758283530689
+      Base 2 Hex Buttons & Text 1_104: 7898000564987830312
+      Base 2 Hex Buttons & Text 1_105: -6582634084346407549
+      Base 2 Hex Buttons & Text 1_106: -678188000782856153
+      Base 2 Hex Buttons & Text 1_107: 5962030940945350193
+      Base 2 Hex Buttons & Text 1_108: -6122310407348461009
+      Base 2 Hex Buttons & Text 1_109: 4428658858511940929
+      Base 2 Hex Buttons & Text 1_11: 2084047707111067598
+      Base 2 Hex Buttons & Text 1_110: -3642841347619760743
+      Base 2 Hex Buttons & Text 1_111: -2994640645323463442
+      Base 2 Hex Buttons & Text 1_112: 7829756340373271357
+      Base 2 Hex Buttons & Text 1_113: 4087619663671419220
+      Base 2 Hex Buttons & Text 1_114: -5166219813770861123
+      Base 2 Hex Buttons & Text 1_115: -3199603893203755160
+      Base 2 Hex Buttons & Text 1_116: 3221223842933963093
+      Base 2 Hex Buttons & Text 1_117: 4016178111234926070
+      Base 2 Hex Buttons & Text 1_118: -5311096098652224634
+      Base 2 Hex Buttons & Text 1_119: 4589043490486613687
+      Base 2 Hex Buttons & Text 1_12: -2367058098991618027
+      Base 2 Hex Buttons & Text 1_120: -2121156732893557332
+      Base 2 Hex Buttons & Text 1_121: -5726776491759958208
+      Base 2 Hex Buttons & Text 1_122: -2372653218349613964
+      Base 2 Hex Buttons & Text 1_123: 4200184688171751038
+      Base 2 Hex Buttons & Text 1_124: -8641607792290356569
+      Base 2 Hex Buttons & Text 1_125: 6635560147956270411
+      Base 2 Hex Buttons & Text 1_126: -8300116888743461850
+      Base 2 Hex Buttons & Text 1_127: -5148170634548895922
+      Base 2 Hex Buttons & Text 1_13: -5527712609538830277
+      Base 2 Hex Buttons & Text 1_14: -5255593305504974495
+      Base 2 Hex Buttons & Text 1_15: 8803613405745096179
+      Base 2 Hex Buttons & Text 1_16: -8841254294787068122
+      Base 2 Hex Buttons & Text 1_17: -7424759674486156711
+      Base 2 Hex Buttons & Text 1_18: 5989520474291881577
+      Base 2 Hex Buttons & Text 1_19: -2901562346456700552
+      Base 2 Hex Buttons & Text 1_2: 7731212562330227918
+      Base 2 Hex Buttons & Text 1_20: -9019640859685280573
+      Base 2 Hex Buttons & Text 1_21: 4074419693775430278
+      Base 2 Hex Buttons & Text 1_22: 1426360245620907769
+      Base 2 Hex Buttons & Text 1_23: 7256461046552951586
+      Base 2 Hex Buttons & Text 1_24: -5445286051731508396
+      Base 2 Hex Buttons & Text 1_25: 9142621803676767391
+      Base 2 Hex Buttons & Text 1_26: 7172102994074419777
+      Base 2 Hex Buttons & Text 1_27: 5216778393642662073
+      Base 2 Hex Buttons & Text 1_28: 6194400214244553915
+      Base 2 Hex Buttons & Text 1_29: -2065792205433739664
+      Base 2 Hex Buttons & Text 1_3: -7199569832807667189
+      Base 2 Hex Buttons & Text 1_30: -3471751140821166022
+      Base 2 Hex Buttons & Text 1_31: 5368891075179396662
+      Base 2 Hex Buttons & Text 1_32: 3850455646350985763
+      Base 2 Hex Buttons & Text 1_33: 4044644569832082031
+      Base 2 Hex Buttons & Text 1_34: -9102448598397070207
+      Base 2 Hex Buttons & Text 1_35: 3967129187162416462
+      Base 2 Hex Buttons & Text 1_36: 1460901960210030946
+      Base 2 Hex Buttons & Text 1_37: 7487317083629695336
+      Base 2 Hex Buttons & Text 1_38: -5853139684051077829
+      Base 2 Hex Buttons & Text 1_39: -2313393778353835698
+      Base 2 Hex Buttons & Text 1_4: -1933088157573937787
+      Base 2 Hex Buttons & Text 1_40: 778744664644921736
+      Base 2 Hex Buttons & Text 1_41: 4226527590107844902
+      Base 2 Hex Buttons & Text 1_42: 2727628650869721211
+      Base 2 Hex Buttons & Text 1_43: -3988155356139732630
+      Base 2 Hex Buttons & Text 1_44: 7783210939176432996
+      Base 2 Hex Buttons & Text 1_45: 573792107394351303
+      Base 2 Hex Buttons & Text 1_46: 2105283518630375957
+      Base 2 Hex Buttons & Text 1_47: 4051750145612724008
+      Base 2 Hex Buttons & Text 1_48: -7144498842181163119
+      Base 2 Hex Buttons & Text 1_49: 7914834405490299535
+      Base 2 Hex Buttons & Text 1_5: 4801652746357281500
+      Base 2 Hex Buttons & Text 1_50: 2616121834953760115
+      Base 2 Hex Buttons & Text 1_51: -7864683308495664818
+      Base 2 Hex Buttons & Text 1_52: 5325788092353239237
+      Base 2 Hex Buttons & Text 1_53: 8907230766518827261
+      Base 2 Hex Buttons & Text 1_54: 7171842307912047903
+      Base 2 Hex Buttons & Text 1_55: -2402737880106796862
+      Base 2 Hex Buttons & Text 1_56: -7423084518512940990
+      Base 2 Hex Buttons & Text 1_57: -1094206519936622979
+      Base 2 Hex Buttons & Text 1_58: 8610161668787243155
+      Base 2 Hex Buttons & Text 1_59: -5818583084427464432
+      Base 2 Hex Buttons & Text 1_6: -1053853099609750154
+      Base 2 Hex Buttons & Text 1_60: 4988675210304530841
+      Base 2 Hex Buttons & Text 1_61: 2286531051914116319
+      Base 2 Hex Buttons & Text 1_62: 3530410099936986567
+      Base 2 Hex Buttons & Text 1_63: -921909795892714132
+      Base 2 Hex Buttons & Text 1_64: 5791275815555279178
+      Base 2 Hex Buttons & Text 1_65: 7519199004618009734
+      Base 2 Hex Buttons & Text 1_66: 8111933131307454009
+      Base 2 Hex Buttons & Text 1_67: -876710207940920046
+      Base 2 Hex Buttons & Text 1_68: -83577620179315633
+      Base 2 Hex Buttons & Text 1_69: -3013135145667668700
+      Base 2 Hex Buttons & Text 1_7: 4558054148244476790
+      Base 2 Hex Buttons & Text 1_70: 5841851933422387132
+      Base 2 Hex Buttons & Text 1_71: 9082075597954071069
+      Base 2 Hex Buttons & Text 1_72: 3853876065920645902
+      Base 2 Hex Buttons & Text 1_73: 5537862195667143817
+      Base 2 Hex Buttons & Text 1_74: 6386746066698324870
+      Base 2 Hex Buttons & Text 1_75: -1108747663826852147
+      Base 2 Hex Buttons & Text 1_76: -4039062591306885204
+      Base 2 Hex Buttons & Text 1_77: -8522814035854126621
+      Base 2 Hex Buttons & Text 1_78: -8241719854584957345
+      Base 2 Hex Buttons & Text 1_79: 43921241169128062
+      Base 2 Hex Buttons & Text 1_8: 2898069864692079786
+      Base 2 Hex Buttons & Text 1_80: -6990714411342293726
+      Base 2 Hex Buttons & Text 1_81: -5928119170142855570
+      Base 2 Hex Buttons & Text 1_82: -4164022536252402511
+      Base 2 Hex Buttons & Text 1_83: -2694626089781449624
+      Base 2 Hex Buttons & Text 1_84: -4484454942766715740
+      Base 2 Hex Buttons & Text 1_85: -232133641565349838
+      Base 2 Hex Buttons & Text 1_86: 7927474012087824860
+      Base 2 Hex Buttons & Text 1_87: -3726774995635236689
+      Base 2 Hex Buttons & Text 1_88: 8025580197237702293
+      Base 2 Hex Buttons & Text 1_89: -4585673659677592410
+      Base 2 Hex Buttons & Text 1_9: -6642918958975147607
+      Base 2 Hex Buttons & Text 1_90: 2002457255839461119
+      Base 2 Hex Buttons & Text 1_91: -5329415984595068355
+      Base 2 Hex Buttons & Text 1_92: -4330499054526579012
+      Base 2 Hex Buttons & Text 1_93: 3736188850392379123
+      Base 2 Hex Buttons & Text 1_94: 5658397033379571494
+      Base 2 Hex Buttons & Text 1_95: -1168812803105609132
+      Base 2 Hex Buttons & Text 1_96: 442932756620073958
+      Base 2 Hex Buttons & Text 1_97: -3795732033275920624
+      Base 2 Hex Buttons & Text 1_98: -5084716891065133487
+      Base 2 Hex Buttons & Text 1_99: -7570094941431805758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
