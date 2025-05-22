@@ -66,21 +66,26 @@ void Update()
 
 private void ShootAtTarget()
 {
-    if (projectilePrefab == null || firePoint == null) return;
+    if (projectilePrefab == null || firePoint == null || target == null) return;
 
-    GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.identity);
-    Vector3 direction = (target.position - firePoint.position).normalized;
+    // Dirección en 2D (ignoramos el eje Z)
+    Vector2 direction = (target.position - firePoint.position).normalized;
 
+    // Calcular ángulo en 2D
+    float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+
+    // Crear proyectil con rotación para que apunte en la dirección del disparo
+    GameObject projectile = Instantiate(projectilePrefab, firePoint.position, Quaternion.Euler(0, 0, angle));
+
+    // Establecer dirección al componente del proyectil
     SimpleProjectile proj = projectile.GetComponent<SimpleProjectile>();
     if (proj != null)
     {
         proj.SetDirection(direction);
     }
 
-    Debug.Log("Disparo con dirección");
+    Debug.Log("Disparo en dirección 2D: " + direction);
 }
-
-
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.blue;

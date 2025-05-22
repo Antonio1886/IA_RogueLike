@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 45458859744607248}
   - component: {fileID: 119870697717536560}
   - component: {fileID: 8990541234637350269}
-  - component: {fileID: 4730342181874427245}
+  - component: {fileID: 3647936810886708810}
   m_Layer: 0
   m_Name: 'Flecha '
   m_TagString: Untagged
@@ -151,7 +151,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!50 &4730342181874427245
+--- !u!50 &3647936810886708810
 Rigidbody2D:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -160,7 +160,7 @@ Rigidbody2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6298737949889582948}
   m_BodyType: 1
-  m_Simulated: 1
+  m_Simulated: 0
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1

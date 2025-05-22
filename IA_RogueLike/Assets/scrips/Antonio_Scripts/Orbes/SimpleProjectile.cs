@@ -4,7 +4,7 @@ public class SimpleProjectile : MonoBehaviour
 {
     public float speed = 10f;
     public int damage = 10;
-    public float lifeTime = 5f;
+    public float lifeTime ;
 
     private Vector3 direction;
 
@@ -25,10 +25,12 @@ public class SimpleProjectile : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        Health targetHealth = other.GetComponent<Health>();
+        Debug.Log($"El proyectil chocó con: {other.name}");
+
+        PlayerHealt targetHealth = other.GetComponent<PlayerHealt>();
         if (targetHealth != null)
         {
-            //targetHealth.TakeDamage(damage);
+            targetHealth.TakeDamage(damage);
             Destroy(gameObject);
         }
     }
