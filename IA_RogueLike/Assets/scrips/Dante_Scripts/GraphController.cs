@@ -11,7 +11,7 @@ public class GraphController : MonoBehaviour
     {
         //crear grapho
         MapGraph graph = new MapGraph();
-        /*
+        
         //crear nodos
         var lobby = graph.AddComponent(new RectangleGenerator(10, 10));
         var lobby2 = graph.AddComponent(new RectangleGenerator(10, 10));
@@ -25,7 +25,7 @@ public class GraphController : MonoBehaviour
         hallway1.ConnectTo(lobby2, Direction.North);
         lobby2.ConnectTo(hallway3, Direction.East);
         lobby2.ConnectTo(hallway4, Direction.West);
-        */
+        
         //Calcular posiciones
         Dictionary<MapGraphNode<IBlockGenerator>, Vector3Int> positions = graph.CalculatePositions();
 
