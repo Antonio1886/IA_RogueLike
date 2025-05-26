@@ -4,7 +4,7 @@ public class SimpleProjectile : MonoBehaviour
 {
     public float speed = 10f;
     public int damage = 10;
-    public float lifeTime ;
+    public float lifeTime;
 
     private Vector3 direction;
 
@@ -23,15 +23,21 @@ public class SimpleProjectile : MonoBehaviour
         transform.position += direction * speed * Time.deltaTime;
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log($"El proyectil chocó con: {other.name}");
 
-        PlayerHealt targetHealth = other.GetComponent<PlayerHealt>();
+        Health targetHealth = other.GetComponent<Health>();
         if (targetHealth != null)
         {
-            targetHealth.TakeDamage(damage);
+            targetHealth.TomarDaño(damage);
+            Destroy(gameObject);
+        }
+        else if (!other.isTrigger) // Si no es un trigger, destruye el proyectil (por ejemplo, una pared)
+        {
             Destroy(gameObject);
         }
     }
 }
+
+
