@@ -12,14 +12,14 @@ public class GraphController : MonoBehaviour
 
     public int minimoDeHabitacionesPorRoot = 0; //Minimo de habitaciones por root
 
-    public int habitacionesPorRoot =  4; 
+    public int habitacionesPorRoot = 4;
 
     //List<Vector2Int> nodosCoords = new List<Vector2Int>();
     Dictionary<Vector2Int, MapGraphNode<IBlockGenerator>> nodosConectados = new Dictionary<Vector2Int, MapGraphNode<IBlockGenerator>>(); //Para guardar los nodos conectados
 
-    public int bloqueoDeSeguridad=3;
+    public int bloqueoDeSeguridad = 3;
 
-    private List<IBlockGenerator> _bloques = new List<IBlockGenerator>() 
+    private List<IBlockGenerator> _bloques = new List<IBlockGenerator>()
     {
         new RectangleGenerator(15, 15),
 
@@ -90,7 +90,7 @@ public class GraphController : MonoBehaviour
 
     public void CrearMapa(MapGraph graph, MapGraphNode<IBlockGenerator> newRoot, Vector2Int coords)
     {
-        if (bloqueoDeSeguridad<=0)
+        if (bloqueoDeSeguridad <= 0)
         {
             return;
         }
@@ -188,7 +188,7 @@ public class GraphController : MonoBehaviour
 
     private void CrearSalaJefe(MapGraph graph, Direction _direccion, MapGraphNode<IBlockGenerator> _bloque)
     {
-        if (_bloque==null)
+        if (_bloque == null)
         {
             var root = graph.AddComponent(new RectangleGenerator(20, 20));
             if (nodosConectados.ContainsKey(Vector2Int.zero))
@@ -205,7 +205,7 @@ public class GraphController : MonoBehaviour
         MapGraphNode<IBlockGenerator> pasillo = null;
 
         //Crear pasillo de jefe
-        if (_direccion == Direction.South || _direccion==Direction.North)
+        if (_direccion == Direction.South || _direccion == Direction.North)
         {
             pasillo = graph.AddComponent(_pasillos[2]);
         }
@@ -217,10 +217,10 @@ public class GraphController : MonoBehaviour
         //Crear sala de jefe
         var salaJefe = graph.AddComponent(_bloques[2]);
         _bloque.ConnectTo(pasillo, _direccion);
-        if (_direccion==Direction.South)
+        if (_direccion == Direction.South)
         {
             pasillo.ConnectTo(salaJefe, Direction.None);
-            
+
         }
         else
         {
