@@ -4,7 +4,7 @@ public class Jefe : MonoBehaviour
 {
     private Animator animator;
     public Rigidbody2D rb2D;
-    public Transform jugador;
+    public Transform target;
     private bool mirandoDerecha = true;
 
     [Header("Vida")]
@@ -22,12 +22,22 @@ public class Jefe : MonoBehaviour
         animator = GetComponent<Animator>();
         rb2D = GetComponent<Rigidbody2D>();
         barraDeVida.InicializarBarraDeVida(vida);
-        jugador = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            target = player.transform;
+        }
+        else
+        {
+            Debug.LogError("No se encontró objeto con tag 'Player'");
+            enabled = false; // Desactiva este script
+        }
     }
 
     private void Update()
     {
-        float distanciaJugador = Vector2.Distance(transform.position, jugador.position);
+        float distanciaJugador = Vector2.Distance(transform.position, target.position);
         animator.SetFloat("distanciaJugador", distanciaJugador);
     }
 
@@ -50,7 +60,7 @@ public class Jefe : MonoBehaviour
 
     public void MirarJugador()
     {
-        if ((jugador.position.x > transform.position.x && !mirandoDerecha) || (jugador.position.x < transform.position.x && mirandoDerecha))
+        if ((target.position.x > transform.position.x && !mirandoDerecha) || (target.position.x < transform.position.x && mirandoDerecha))
         {
             mirandoDerecha = !mirandoDerecha;
             transform.eulerAngles = new Vector3(0, transform.eulerAngles.y + 180, 0);

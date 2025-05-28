@@ -12,7 +12,7 @@ public class Jefe_CaminarBehavior : StateMachineBehaviour
     {
         jefe = animator.GetComponent<Jefe>();
         rb2D = jefe.rb2D;
-        jugador = jefe.jugador; // Asume que tienes una referencia al jugador en tu script Jefe
+        jugador = jefe.target; // Asume que tienes una referencia al jugador en tu script Jefe
 
 
         jefe.MirarJugador();

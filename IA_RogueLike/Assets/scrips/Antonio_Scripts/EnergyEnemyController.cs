@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnergyEnemyController : MonoBehaviour
 {
-     public Transform player;
+     public Transform target;
     public float moveSpeed = 3f;
     public float approachRange = 10f;
     public float attackRange = 5f;
@@ -19,15 +19,30 @@ public class EnergyEnemyController : MonoBehaviour
     private bool isFiring;
     private float cooldownTimer;
 
+    private void Start()
+    {
+        // Buscar al jugador de forma más segura
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            target = player.transform;
+        }
+        else
+        {
+            Debug.LogError("No se encontró objeto con tag 'Player'");
+            enabled = false; // Desactiva este script
+        }
+    }
+
     void Update()
     {
-        float distance = Vector2.Distance(transform.position, player.position);
+        float distance = Vector2.Distance(transform.position, target.position);
 
         if (distance > attackRange)
         {
             if (distance < approachRange)
             {
-                Vector2 dir = (player.position - transform.position).normalized;
+                Vector2 dir = (target.position - transform.position).normalized;
                 transform.position += (Vector3)dir * moveSpeed * Time.deltaTime;
             }
             StopFiring();

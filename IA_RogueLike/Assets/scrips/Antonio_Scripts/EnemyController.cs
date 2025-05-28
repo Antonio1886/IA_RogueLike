@@ -23,7 +23,19 @@ public class EnemyController : MonoBehaviour
     void Start()
     {
         enemy = new Enemy(100, 10, attackRange, attackCooldown);
-    }
+            // Buscar al jugador de forma más segura
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            if (player != null)
+            {
+                target = player.transform;
+            }
+            else
+            {
+                Debug.LogError("No se encontró objeto con tag 'Player'");
+                enabled = false; // Desactiva este script
+            }
+        }
+
 
     void Update()
     {
@@ -46,6 +58,7 @@ public class EnemyController : MonoBehaviour
                 }
                 else if (enemy.TryAttack(currentTime))
                 {
+
                     Debug.Log("Ataque realizado. Daño: " + enemy.AttackDamage);
                     // Aquí puedes aplicar daño al jugador con un sistema de salud
 

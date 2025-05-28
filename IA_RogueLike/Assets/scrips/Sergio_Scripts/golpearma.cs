@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class golpearma : MonoBehaviour
 {
+    public GameObject colliderArma;
     [Header("Armas")]
     public Sprite armalvl0;
     public Sprite armalvl1;
@@ -27,6 +28,7 @@ public class golpearma : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         UpdateWeaponSprite();
+        colliderArma.SetActive(false); // Aseguramos que el collider del arma esté desactivado al inicio
     }
 
     void Update()
@@ -66,5 +68,13 @@ public class golpearma : MonoBehaviour
         {
             armaRenderer.sprite = nuevoSprite;
         }
+    }
+    void encenderarma()
+    {
+        colliderArma.SetActive(true);
+    }
+    void apagararma()
+    {
+        colliderArma.SetActive(false);
     }
 }

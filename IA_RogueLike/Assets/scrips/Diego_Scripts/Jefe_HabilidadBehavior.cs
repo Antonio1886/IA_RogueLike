@@ -10,7 +10,7 @@ public class Jefe_HabilidadBehavior : StateMachineBehaviour
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         jefe = animator.GetComponent<Jefe>();
-        jugador = jefe.jugador;
+        jugador = jefe.target;
 
         jefe.MirarJugador();
 

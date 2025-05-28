@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class TopDownMovement : MonoBehaviour
 {
@@ -13,28 +14,37 @@ public class TopDownMovement : MonoBehaviour
     private bool isDashing = false;
     private bool canDash = true;
     private Vector2 dashDirection;
+    private bool canMove = true;
 
     private Rigidbody2D rb;
     public Animator anim;
     private Camera mainCamera;
+    private Health healthScript;
+    public GameObject arma;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         mainCamera = Camera.main;
+        healthScript = GetComponent<Health>();
+        arma.SetActive(true);
     }
 
     private void Update()
     {
-        // Solo procesar movimiento y dash si no estamos en medio de un dash
-        if (!isDashing)
+        if (healthScript != null && healthScript.GetCurrentHealth() <= 0 && canMove)
+        {
+            StartDeath();
+            return;
+        }
+
+        if (!isDashing && canMove)
         {
             Direcction = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
 
             bool isMoving = Direcction.sqrMagnitude > 0;
             anim.SetBool("isMoving", isMoving);
 
-            // Rotación basada en posición del mouse
             Vector3 mouseWorldPos = mainCamera.ScreenToWorldPoint(Input.mousePosition);
             if (mouseWorldPos.x < transform.position.x)
             {
@@ -45,7 +55,6 @@ public class TopDownMovement : MonoBehaviour
                 transform.rotation = Quaternion.Euler(0, 0, 0);
             }
 
-            // Lógica del dash
             if (Input.GetKeyDown(KeyCode.Space) && canDash)
             {
                 StartCoroutine(Dash());
@@ -56,7 +65,7 @@ public class TopDownMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (!isDashing)
+        if (!isDashing && canMove)
         {
             rb.MovePosition(rb.position + Direcction * MoveSpeed * Time.fixedDeltaTime);
         }
@@ -67,14 +76,12 @@ public class TopDownMovement : MonoBehaviour
         canDash = false;
         isDashing = true;
 
-        // Determinar dirección del dash
         if (Direcction.sqrMagnitude > 0)
         {
             dashDirection = Direcction;
         }
         else
         {
-            // Dash hacia la posición del mouse si no hay movimiento
             Vector2 mouseScreenPos = Input.mousePosition;
             Vector2 mouseWorldPos = mainCamera.ScreenToWorldPoint(mouseScreenPos);
             dashDirection = (mouseWorldPos - rb.position).normalized;
@@ -93,5 +100,31 @@ public class TopDownMovement : MonoBehaviour
         // Cooldown del dash
         yield return new WaitForSeconds(dashCooldown);
         canDash = true;
+    }
+
+    private void StartDeath()
+    {
+        canMove = false;
+        arma.SetActive(false);
+        anim.SetTrigger("Die");
+        StartCoroutine(WaitForDeathAnimation());
+    }
+
+    private IEnumerator WaitForDeathAnimation()
+    {
+        yield return new WaitForSeconds(2f);
+
+        Muerto();
+    }
+
+    private void Muerto()
+    {
+        Destroy(gameObject);
+        SceneManager.LoadScene("MenuSeleccionPersonaje");
+    }
+
+    public void SetCanMove(bool moveState)
+    {
+        canMove = moveState;
     }
 }

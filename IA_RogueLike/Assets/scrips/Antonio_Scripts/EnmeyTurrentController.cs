@@ -14,6 +14,21 @@ public class  EnmeyTurrentController : MonoBehaviour
     private bool isShooting = false;
     private float nextBurstTime = 0f;
 
+    private void Start()
+    {
+        // Buscar al jugador de forma más segura
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            target = player.transform;
+        }
+        else
+        {
+            Debug.LogError("No se encontró objeto con tag 'Player'");
+            enabled = false; // Desactiva este script
+        }
+    }
+
     void Update()
     {
         if (target == null) return;

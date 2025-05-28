@@ -13,6 +13,20 @@ public class Kamikaze : MonoBehaviour
     private Vector3 moveDirection;
     private float explosionTime;
 
+     private void Start()
+    {
+        // Buscar al jugador de forma más segura
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            target = player.transform;
+        }
+        else
+        {
+            Debug.LogError("No se encontró objeto con tag 'Player'");
+            enabled = false; // Desactiva este script
+        }
+    }
     void Update()
     {
         if (isCharging)
@@ -45,7 +59,7 @@ public class Kamikaze : MonoBehaviour
             Health h = hit.GetComponent<Health>();
             if (h != null)
             {
-                //h.TakeDamage(explosionDamage);
+                h.TomarDaño(explosionDamage);
             }
         }
 
