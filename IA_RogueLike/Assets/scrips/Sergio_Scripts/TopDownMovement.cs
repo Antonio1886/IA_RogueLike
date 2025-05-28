@@ -127,4 +127,9 @@ public class TopDownMovement : MonoBehaviour
     {
         canMove = moveState;
     }
+    // Agrega este método en la clase TopDownMovement
+    public bool IsDashing()
+    {
+        return isDashing;
+    }
 }

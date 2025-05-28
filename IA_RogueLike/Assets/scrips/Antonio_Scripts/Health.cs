@@ -7,9 +7,12 @@ public class Health : MonoBehaviour
     [SerializeField] private float vidaMaxima = 100f;
     [SerializeField] private Image vidaImageUI;
 
+    private TopDownMovement movementScript; // Referencia al script de movimiento
+
     void Start()
     {
         vida = vidaMaxima;
+        movementScript = GetComponent<TopDownMovement>(); // Obtener la referencia
 
         if (vidaImageUI != null)
         {
@@ -21,6 +24,12 @@ public class Health : MonoBehaviour
 
     public void TomarDaño(float daño)
     {
+        // Verificar si el jugador está haciendo dash
+        if (movementScript != null && movementScript.IsDashing())
+        {
+            return; // No recibir daño si está en dash
+        }
+
         vida -= daño;
         ActualizarVidaUI();
 
