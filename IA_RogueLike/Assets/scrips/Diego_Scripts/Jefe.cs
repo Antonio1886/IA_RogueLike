@@ -7,9 +7,9 @@ public class Jefe : MonoBehaviour
     public Transform target;
     private bool mirandoDerecha = true;
 
-    [Header("Vida")]
+    /*[Header("Vida")]
     [SerializeField] private float vida;
-    [SerializeField] private BarraDeVida barraDeVida;
+    [SerializeField] private BarraDeVida barraDeVida;*/
 
     [Header("Ataque")]
     [SerializeField] private Transform controladorAtaque;
@@ -21,7 +21,7 @@ public class Jefe : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb2D = GetComponent<Rigidbody2D>();
-        barraDeVida.InicializarBarraDeVida(vida);
+        //barraDeVida.InicializarBarraDeVida(vida);
 
         GameObject player = GameObject.FindGameObjectWithTag("Player");
         if (player != null)
@@ -41,7 +41,7 @@ public class Jefe : MonoBehaviour
         animator.SetFloat("distanciaJugador", distanciaJugador);
     }
 
-    public void TomarDaño(float daño)
+    /*public void TomarDaño(float daño)
     {
         vida -= daño;
 
@@ -51,7 +51,7 @@ public class Jefe : MonoBehaviour
         {
             animator.SetTrigger("Muerte");
         }
-    }
+    }*/
 
     private void Muerte()
     {

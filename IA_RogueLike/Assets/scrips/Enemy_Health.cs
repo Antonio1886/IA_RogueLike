@@ -40,10 +40,10 @@ public class Enemy_Health : MonoBehaviour
         spriteRenderer.color = originalColor;
     }
 
-    private void Die()
+  private void Die()
     {
         // Buscar el ExperienceManager y agregar experiencia
-        ExperienceManager experienceManager = FindObjectOfType<ExperienceManager>();
+        ExperienceManager experienceManager = Object.FindAnyObjectByType<ExperienceManager>();
         if (experienceManager != null)
         {
             experienceManager.AddExperience(experienceReward);

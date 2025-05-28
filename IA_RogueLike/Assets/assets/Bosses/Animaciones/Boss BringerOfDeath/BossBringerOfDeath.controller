@@ -319,7 +319,7 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 4
     m_ConditionEvent: distanciaJugador
-    m_EventTreshold: 4
+    m_EventTreshold: 3
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -3983696171606705846}
   m_Solo: 0
@@ -418,7 +418,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b23db522ec918e44bccc863390e79eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidadMovimiento: 50
+  velocidadMovimiento: 80
 --- !u!1102 &7564357559636591461
 AnimatorState:
   serializedVersion: 6

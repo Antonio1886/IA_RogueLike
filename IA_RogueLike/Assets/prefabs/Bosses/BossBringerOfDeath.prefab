@@ -45,6 +45,7 @@ GameObject:
   - component: {fileID: 4893793336134954328}
   - component: {fileID: 2814107314401604188}
   - component: {fileID: 4628774389365478714}
+  - component: {fileID: 4826062878851595655}
   m_Layer: 0
   m_Name: BossBringerOfDeath
   m_TagString: Untagged
@@ -158,7 +159,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb2D: {fileID: 4628774389365478714}
-  jugador: {fileID: 0}
+  target: {fileID: 0}
   vida: 100
   barraDeVida: {fileID: 0}
   controladorAtaque: {fileID: 4133279187734408785}
@@ -237,3 +238,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &4826062878851595655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5541236944833489186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2f470f5f73d7e4b8836237b6d04ef1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 200
+  currentHealth: 0
+  experienceReward: 1300

@@ -1462,6 +1462,7 @@ GameObject:
   - component: {fileID: 25305811461534246}
   - component: {fileID: 4677330701669459891}
   - component: {fileID: 1559369812387382725}
+  - component: {fileID: 4649902273981150831}
   m_Layer: 0
   m_Name: skeleton rotten
   m_TagString: Untagged
@@ -1539,9 +1540,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb2D: {fileID: 4677330701669459891}
-  jugador: {fileID: 0}
-  vida: 100
-  barraDeVida: {fileID: 0}
+  target: {fileID: 0}
   controladorAtaque: {fileID: 2070824365834294216}
   radioAtaque: 1.5
   "da\xF1oAtaque": 20
@@ -1618,6 +1617,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 5.680805, y: 13.23384}
   m_EdgeRadius: 0
+--- !u!114 &4649902273981150831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5717845342512702961}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d2f470f5f73d7e4b8836237b6d04ef1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 150
+  currentHealth: 0
+  experienceReward: 900
 --- !u!1 &5741824903874442968
 GameObject:
   m_ObjectHideFlags: 0
