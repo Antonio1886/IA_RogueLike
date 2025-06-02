@@ -41,6 +41,9 @@ public class GraphController : MonoBehaviour
     private MapGraphNode<IBlockGenerator> ultimoNodeBloque;
     private Direction ultimaDirection;
 
+    // NUEVO: Referencia al EnemySpawnController
+    public EnemySpawnController enemySpawnController;
+
     void Start()
     {
         //crear grapho
@@ -84,7 +87,31 @@ public class GraphController : MonoBehaviour
             tilemap.SetTiles(block.TilesPositions.ToArray(), tiles.ToArray());
 
             List<Tile> tilesBlank = new List<Tile>(tiles.Count);
+        }
 
+        // NUEVO: Spawnear enemigos en cada sala excepto la root
+        foreach (var nodePosPair in nodosConectados)
+        {
+            Vector2Int pos = nodePosPair.Key;
+            if (pos != Vector2Int.zero)
+            {
+                enemySpawnController.SpawnEnemiesInRoom(pos, this.transform);
+            }
+        }
+
+        // NUEVO: Spawnear jefe en la última sala creada (sala del jefe)
+        if (ultimoNodeBloque != null)
+        {
+            Vector2Int bossRoomPos = Vector2Int.zero;
+            foreach (var pair in nodosConectados)
+            {
+                if (pair.Value == ultimoNodeBloque)
+                {
+                    bossRoomPos = pair.Key;
+                    break;
+                }
+            }
+            enemySpawnController.SpawnBossInRoom(bossRoomPos, this.transform);
         }
     }
 

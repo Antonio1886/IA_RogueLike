@@ -3777,25 +3777,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4893793336134954328, guid: bfe8374be8e11f04f8fb61d4cef9945a, type: 3}
-      propertyPath: target
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4893793336134954328, guid: bfe8374be8e11f04f8fb61d4cef9945a, type: 3}
-      propertyPath: jugador
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4893793336134954328, guid: bfe8374be8e11f04f8fb61d4cef9945a, type: 3}
-      propertyPath: barraDeVida
-      value: 
-      objectReference: {fileID: 1676724855}
     - target: {fileID: 5541236944833489186, guid: bfe8374be8e11f04f8fb61d4cef9945a, type: 3}
       propertyPath: m_Name
       value: BossBringerOfDeath
-      objectReference: {fileID: 0}
-    - target: {fileID: 5541236944833489186, guid: bfe8374be8e11f04f8fb61d4cef9945a, type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -211136,37 +211136,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &831635689
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 831635690}
-  m_Layer: 0
-  m_Name: SpawnPoint
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &831635690
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 831635689}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.94, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &905434360
 GameObject:
   m_ObjectHideFlags: 0
@@ -212665,45 +212634,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 1773710333}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 409ec2d6d6bd61146a9098fad204a74f, type: 3}
+  m_Script: {fileID: 11500000, guid: ed206ff0fab60be4282459a9cf639854, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tilemap: {fileID: 146107515}
-  player: {fileID: 1621073302}
   enemyPrefabs:
-  - {fileID: 5687532170297068971, guid: 20e04c714bcd99d439d217f247ab4c03, type: 3}
-  salaSize: {x: 20, y: 20}
---- !u!1 &1911622999
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1911623000}
-  m_Layer: 0
-  m_Name: SpawnPoint (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1911623000
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1911622999}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.05, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  - {fileID: 7752959106157597371, guid: 8d2581f38a218aa48bd19b4f323cd37d, type: 3}
+  - {fileID: 3155519589708387391, guid: 94ab4ef148c7e3d408d6966cd425534a, type: 3}
+  - {fileID: 6258676176605657756, guid: 0e583218fd16189499f4971307996b82, type: 3}
+  - {fileID: 5541236944833489186, guid: bfe8374be8e11f04f8fb61d4cef9945a, type: 3}
+  bossPrefabs: []
+  minEnemies: 1
+  maxEnemies: 1
 --- !u!1 &2006317340
 GameObject:
   m_ObjectHideFlags: 0
@@ -212814,6 +212755,7 @@ MonoBehaviour:
   minimoDeHabitacionesPorRoot: 0
   habitacionesPorRoot: 4
   bloqueoDeSeguridad: 5
+  enemySpawnController: {fileID: 1773710336}
 --- !u!4 &2088249544
 Transform:
   m_ObjectHideFlags: 0
@@ -212913,8 +212855,6 @@ SceneRoots:
   - {fileID: 622312444}
   - {fileID: 1312032127}
   - {fileID: 1773710335}
-  - {fileID: 831635690}
-  - {fileID: 1911623000}
   - {fileID: 1621073302}
   - {fileID: 1222941754}
   - {fileID: 4550625}
